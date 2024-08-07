@@ -1,0 +1,7 @@
+D:\Projekte\PMNachrichten\test\bin\Debug\test.exe.config
+D:\Projekte\PMNachrichten\test\bin\Debug\test.exe
+D:\Projekte\PMNachrichten\test\bin\Debug\test.pdb
+D:\Projekte\PMNachrichten\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Projekte\PMNachrichten\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Projekte\PMNachrichten\test\obj\Debug\test.exe
+D:\Projekte\PMNachrichten\test\obj\Debug\test.pdb

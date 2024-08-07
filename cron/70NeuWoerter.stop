@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "cron 70NeuWörter"
+mono /usr/local/news/P41NeuWoerter/P41neuWoerter.exe
+mono /usr/local/news/P41NeuWoerter/P41neuWoerter.exe
+mono /usr/local/news/P41NeuWoerter/P41neuWoerter.exe
+mono /usr/local/news/P41NeuWoerter/P41neuWoerter.exe
+echo "...cron 70NeuWörter"

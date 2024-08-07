@@ -1,0 +1,751 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mp="http://www.tagesschau.de/rss/1.0/modules/metaplus/1.2.0/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <channel rdf:about="https://www.tagesschau.de/infoservices/alle-meldungen-100.html">
+    <title>tagesschau.de - Die Nachrichten der ARD</title>
+    <link>https://www.tagesschau.de/infoservices/alle-meldungen-100.html</link>
+    <description>Die aktuellen Beiträge der Seite https://www.tagesschau.de/infoservices/alle-meldungen-100.html</description>
+    <language>de</language>
+    <copyright>ARD-aktuell / tagesschau.de</copyright>
+    <lastBuildDate>Sat, 27 Jul 2024 17:27:17 +0200</lastBuildDate>
+    <pubDate>Sat, 27 Jul 2024 17:27:17 +0200</pubDate>
+    <ttl>90</ttl>
+    <image rdf:resource="https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABj86yhLg/AAABjwnlXhk/original/tagesschau-logo-100.jpg"/>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:language>de</dc:language>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:date>2023-04-14T07:19:20+00:00</dc:date>
+    <dc:source>tagesschau.de</dc:source>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <sy:updateBase>2024-07-27T15:27:17+00:00</sy:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="700863a4-1e49-4704-82ff-74c20279e237"/>
+        <rdf:li rdf:resource="ce44caa0-5ad1-4e84-9654-4cdad30373c3"/>
+        <rdf:li rdf:resource="83713d11-b0a9-4074-af48-2118fe8cbad5"/>
+        <rdf:li rdf:resource="26059dda-5759-4a48-bbbd-0683bb08b0e3"/>
+        <rdf:li rdf:resource="608112d0-67a5-4337-a11d-45a8f546b78f"/>
+        <rdf:li rdf:resource="092e820d-7dc7-495b-a836-8eac5336aa1c"/>
+        <rdf:li rdf:resource="28516e78-5195-4b38-abea-004f331a986c"/>
+        <rdf:li rdf:resource="tagesschau_fm-story-WDR-6fc48b92-b165-44c0-8a09-b243543dde26"/>
+        <rdf:li rdf:resource="e2d6ccb3-f075-4029-b395-646d5195154f"/>
+        <rdf:li rdf:resource="tagesschau_fm-story-rbb_csd-2024-berlin-christopher-street-day-lgbtiq"/>
+        <rdf:li rdf:resource="e589e7d1-d7ea-4fd5-8e50-aa18658a8cf9"/>
+        <rdf:li rdf:resource="ea36c874-eeab-44da-a8ea-ff12a949ce2b"/>
+        <rdf:li rdf:resource="1b1be7e8-0d1d-45c8-bae5-7b7bf5c1e53c"/>
+        <rdf:li rdf:resource="b94c4ff7-4838-458f-a928-e256cf3b2796"/>
+        <rdf:li rdf:resource="e1555f8f-3778-4573-81d8-c4b13e256a55"/>
+        <rdf:li rdf:resource="9205612a-7f56-4f20-b704-896a1f68baf3"/>
+        <rdf:li rdf:resource="6c573b42-8e4e-4a89-9817-aa53d73d19c3"/>
+        <rdf:li rdf:resource="d57c77cd-e040-418e-a733-357ad4a7681a"/>
+        <rdf:li rdf:resource="525f7d7a-600d-4ef3-bb3e-e7cac21ce4ef"/>
+        <rdf:li rdf:resource="76b9b867-52f0-43ea-b57d-b12abe027d92"/>
+        <rdf:li rdf:resource="3a455cdd-4022-4e98-982a-8647ae6797cc"/>
+        <rdf:li rdf:resource="9cd7bead-65e6-4b49-870a-b6142f7375e4"/>
+        <rdf:li rdf:resource="3d9244f5-6e1c-454b-94cf-218fb614653b"/>
+        <rdf:li rdf:resource="d0f41246-4c53-4711-a5e6-c7fa4600a0c5"/>
+        <rdf:li rdf:resource="8036c8f6-68c5-475f-bc2f-cc023db5ff9f"/>
+        <rdf:li rdf:resource="7267b486-cfa6-45c4-9118-5cbfca11eb6b"/>
+        <rdf:li rdf:resource="39e5c8b2-104b-464a-b268-988446b756c7"/>
+        <rdf:li rdf:resource="5c958199-e3c1-4173-a87d-6c934ee26535"/>
+        <rdf:li rdf:resource="f4c379de-73d5-4fba-bea6-a019313e79eb"/>
+        <rdf:li rdf:resource="fdb8d4f6-1df5-4cb6-9bc7-d21f230f3061"/>
+        <rdf:li rdf:resource="fc60b40b-ba86-4ab1-9e92-2d1bfa8b39c3"/>
+        <rdf:li rdf:resource="42a3263d-c769-428f-a888-1368f4e6cb2a"/>
+        <rdf:li rdf:resource="af220ef5-e114-471c-94a4-1014ee5a608a"/>
+        <rdf:li rdf:resource="d7bab909-2a30-422e-9273-b6c067925489"/>
+        <rdf:li rdf:resource="77627568-1cc0-4707-af2a-d66459901d68"/>
+        <rdf:li rdf:resource="2864db0d-1620-4575-b8d4-5fd7e2f57a95"/>
+        <rdf:li rdf:resource="406b3de5-132d-4c43-8bf0-43468bdf32bf"/>
+        <rdf:li rdf:resource="b95f2ce1-7b9c-4a7f-af01-b9cd7f077179"/>
+        <rdf:li rdf:resource="8275ce29-fce5-42c6-a460-b60fd4d036c9"/>
+        <rdf:li rdf:resource="a28398c6-0dfa-4e17-87d1-60a73e302e13"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <image>
+    <title>tagesschau | ARD-aktuell</title>
+    <url>https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABj86yhLg/AAABjwnlXhk/original/tagesschau-logo-100.jpg</url>
+    <link>https://tagesschau.de</link>
+  </image>
+  <item rdf:about="700863a4-1e49-4704-82ff-74c20279e237">
+    <title>Trump will trotz Sicherheitsbedenken weiter im Freien auftreten</title>
+    <link>https://www.tagesschau.de/ausland/uswahl/trump-attentat-122.html</link>
+    <description>Der ehemalige US-Präsident Trump will auch nach dem Attentat auf ihn weiterhin Wahlkampfkundgebungen im Freien abhalten. Er ignoriert damit die Empfehlung des Secret Service, auf solche Auftritte zu verzichten.</description>
+    <pubDate>Sat, 27 Jul 2024 17:27:17 +0200</pubDate>
+    <guid>700863a4-1e49-4704-82ff-74c20279e237</guid>
+    <dc:date>2024-07-27T15:27:17Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/uswahl/trump-attentat-122.html"><img src="https://images.tagesschau.de/image/e8aca56c-8cc0-4380-8462-bc81be8be517/AAABkPTKk6I/AAABjwnlFvA/16x9-1280/trump-3514.jpg" alt="Trump bei einem Wahlkampfauftritt am 9. Juli in Florida | AP" /></a> <br/> <br/>Der ehemalige US-Präsident Trump will auch nach dem Attentat auf ihn weiterhin Wahlkampfkundgebungen im Freien abhalten. Er ignoriert damit die Empfehlung des Secret Service, auf solche Auftritte zu verzichten.[<a href="https://www.tagesschau.de/ausland/uswahl/trump-attentat-122.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>trump-attentat-122</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/uswahl/trump-attentat-122~rss2.xml"/>
+  </item>
+  <item rdf:about="ce44caa0-5ad1-4e84-9654-4cdad30373c3">
+    <title>Rentenabschläge können durch Sonderzahlungen ausgeglichen werden</title>
+    <link>https://www.tagesschau.de/wirtschaft/verbraucher/rente-abschlag-sonderzahlung-steuern-100.html</link>
+    <description>Viele Bürgerinnen und Bürger wollen die ihre Rente früher in Anspruch nehmen. Dabei müssen sie oft aber Abschläge bei der Rentenhöhe in Kauf nehmen. Wer die vermeiden will, kann Ausgleichszahlungen leisten. Von Andreas Braun.</description>
+    <pubDate>Sat, 27 Jul 2024 16:33:42 +0200</pubDate>
+    <guid>ce44caa0-5ad1-4e84-9654-4cdad30373c3</guid>
+    <dc:date>2024-07-27T14:33:42Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/verbraucher/rente-abschlag-sonderzahlung-steuern-100.html"><img src="https://images.tagesschau.de/image/ec307b75-1c54-4650-b6ac-1377bd8c6464/AAABkAYmktY/AAABjwnlFvA/16x9-1280/rentner-200.jpg" alt="Eine ältere Frau und ein älterer Mann sitzen auf einer Bank in der Sonne. | picture alliance / SvenSimon" /></a> <br/> <br/>Viele Bürgerinnen und Bürger wollen die ihre Rente früher in Anspruch nehmen. Dabei müssen sie oft aber Abschläge bei der Rentenhöhe in Kauf nehmen. Wer die vermeiden will, kann Ausgleichszahlungen leisten. <em>Von Andreas Braun.</em>[<a href="https://www.tagesschau.de/wirtschaft/verbraucher/rente-abschlag-sonderzahlung-steuern-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>rente-abschlag-sonderzahlung-steuern-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wirtschaft/verbraucher/rente-abschlag-sonderzahlung-steuern-100~rss2.xml"/>
+  </item>
+  <item rdf:about="83713d11-b0a9-4074-af48-2118fe8cbad5">
+    <title>Dorfgemeinschaft rettet Tannheimer Freibad im Schwarzwald</title>
+    <link>https://www.tagesschau.de/inland/gesellschaft/freibad-ehrenamt-zusammenhalt-tannheim-100.html</link>
+    <description>In Deutschland schließen jährlich rund 80 Bäder. Auch das Tannheimer Freibad stand vor 20 Jahren vor dem Aus, weil Geld fehlte. Doch die Dorfbevölkerung wehrte sich und betreibt es seitdem ehrenamtlich. Von S. Helmeke</description>
+    <pubDate>Sat, 27 Jul 2024 15:05:19 +0200</pubDate>
+    <guid>83713d11-b0a9-4074-af48-2118fe8cbad5</guid>
+    <dc:date>2024-07-27T13:05:19Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/gesellschaft/freibad-ehrenamt-zusammenhalt-tannheim-100.html"><img src="https://images.tagesschau.de/image/dfd95755-3e9a-49ea-a4c8-76e0f20778a8/AAABkO8fX-s/AAABjwnlFvA/16x9-1280/freibad-ehrenamt-100.jpg" alt="Ehrenamtler im Tannheimer Freibad im Schwarzwald. | SWR" /></a> <br/> <br/>In Deutschland schließen jährlich rund 80 Bäder. Auch das Tannheimer Freibad stand vor 20 Jahren vor dem Aus, weil Geld fehlte. Doch die Dorfbevölkerung wehrte sich und betreibt es seitdem ehrenamtlich. <em>Von S. Helmeke</em>[<a href="https://www.tagesschau.de/inland/gesellschaft/freibad-ehrenamt-zusammenhalt-tannheim-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>freibad-ehrenamt-zusammenhalt-tannheim-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/gesellschaft/freibad-ehrenamt-zusammenhalt-tannheim-100~rss2.xml"/>
+  </item>
+  <item rdf:about="26059dda-5759-4a48-bbbd-0683bb08b0e3">
+    <title>Nahost-Liveblog: Dutzende Tote bei israelischem Luftangriff </title>
+    <link>https://www.tagesschau.de/newsticker/liveblog-nahost-samstag-160.html</link>
+    <description>Israel hat nach Angaben des Militärs eine Schule angegriffen, um eine Kommandozentrale der Hamas zu zerstören. Es soll erneut viele Tote geben. Gespräche für ein Abkommen gehen in Rom weiter. Die Entwicklungen im Liveblog.</description>
+    <pubDate>Sat, 27 Jul 2024 14:22:26 +0200</pubDate>
+    <guid>26059dda-5759-4a48-bbbd-0683bb08b0e3</guid>
+    <dc:date>2024-07-27T12:22:26Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-nahost-samstag-160.html"><img src="https://images.tagesschau.de/image/e365725b-db56-4c07-9bf6-67c7b59cc4a7/AAABhnRDex8/AAABjwnlFvA/16x9-1280/israel-flagge-105.jpg" alt="Israelische Flagge | picture alliance / 360-Berlin" /></a> <br/> <br/>Israel hat nach Angaben des Militärs eine Schule angegriffen, um eine Kommandozentrale der Hamas zu zerstören. Es soll erneut viele Tote geben. Gespräche für ein Abkommen gehen in Rom weiter. Die Entwicklungen im Liveblog.[<a href="https://www.tagesschau.de/newsticker/liveblog-nahost-samstag-160.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>liveblog-nahost-samstag-160</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/newsticker/liveblog-nahost-samstag-160~rss2.xml"/>
+  </item>
+  <item rdf:about="608112d0-67a5-4337-a11d-45a8f546b78f">
+    <title>Komponist Wolfgang Rihm im Alter von 72 Jahren gestorben</title>
+    <link>https://www.tagesschau.de/inland/gesellschaft/wolfgang-rihm-102.html</link>
+    <description>Schon mit elf Jahren fing er an zu komponieren - und galt später als einer der meistgespielten zeitgenössischen Komponisten Europas. Jetzt ist Wolfgang Rihm tot. Er hinterlässt Hunderte Werke.</description>
+    <pubDate>Sat, 27 Jul 2024 14:08:42 +0200</pubDate>
+    <guid>608112d0-67a5-4337-a11d-45a8f546b78f</guid>
+    <dc:date>2024-07-27T12:08:42Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/gesellschaft/wolfgang-rihm-102.html"><img src="https://images.tagesschau.de/image/6c8692a1-d44a-4a1f-942b-569504b375eb/AAABkPPrXzI/AAABjwnlFvA/16x9-1280/wolfgang-rihm-100.jpg" alt="Wolfgang Rihm (Archivbild: 28.2.2022) | dpa" /></a> <br/> <br/>Schon mit elf Jahren fing er an zu komponieren - und galt später als einer der meistgespielten zeitgenössischen Komponisten Europas. Jetzt ist Wolfgang Rihm tot. Er hinterlässt Hunderte Werke.[<a href="https://www.tagesschau.de/inland/gesellschaft/wolfgang-rihm-102.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>wolfgang-rihm-102</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/gesellschaft/wolfgang-rihm-102~rss2.xml"/>
+  </item>
+  <item rdf:about="092e820d-7dc7-495b-a836-8eac5336aa1c">
+    <title>Olympische Spiele: Französinnen dürfen nicht im Hijab starten</title>
+    <link>https://www.tagesschau.de/ausland/europa/frankreich-olympische-spiele-hijab-100.html</link>
+    <description>Wer Frankreich repräsentiert, darf in dieser Rolle keine religiösen Bekenntnisse äußern. Das gilt auch im Spitzensport - jedenfalls für muslimische Athletinnen. Kritiker sagen: Hier gelte zweierlei Maß. Von Carolin Dylla.</description>
+    <pubDate>Sat, 27 Jul 2024 13:57:49 +0200</pubDate>
+    <guid>092e820d-7dc7-495b-a836-8eac5336aa1c</guid>
+    <dc:date>2024-07-27T11:57:49Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/frankreich-olympische-spiele-hijab-100.html"><img src="https://images.tagesschau.de/image/5951c764-9ad5-4121-9e66-844f81b0ab9a/AAABkPQN4MY/AAABjwnlFvA/16x9-1280/diaba-konate-100.jpg" alt="Diaba Konaté | AFP" /></a> <br/> <br/>Wer Frankreich repräsentiert, darf in dieser Rolle keine religiösen Bekenntnisse äußern. Das gilt auch im Spitzensport - jedenfalls für muslimische Athletinnen. Kritiker sagen: Hier gelte zweierlei Maß. <em>Von Carolin Dylla.</em>[<a href="https://www.tagesschau.de/ausland/europa/frankreich-olympische-spiele-hijab-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>frankreich-olympische-spiele-hijab-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/europa/frankreich-olympische-spiele-hijab-100~rss2.xml"/>
+  </item>
+  <item rdf:about="28516e78-5195-4b38-abea-004f331a986c">
+    <title>UNESCO zeichnet Residenzensemble Schwerin als Welterbe aus</title>
+    <link>https://www.tagesschau.de/inland/regional/schwerin-unesco-100.html</link>
+    <description>Das Schweriner Schloss hat den begehrten Status UNESCO-Welterbe erhalten. Damit steht es in einer Reihe mit dem Taj Mahal, der Chinesischen Mauer und den Pyramiden von Gizeh.</description>
+    <pubDate>Sat, 27 Jul 2024 13:54:45 +0200</pubDate>
+    <guid>28516e78-5195-4b38-abea-004f331a986c</guid>
+    <dc:date>2024-07-27T11:54:45Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/regional/schwerin-unesco-100.html"><img src="https://images.tagesschau.de/image/d02b290a-2ae0-4883-b6b9-364329841857/AAABkPRDKfk/AAABjwnlFvA/16x9-1280/schwerin-schloss-104.jpg" alt="Das Schweriner Schloss  | dpa" /></a> <br/> <br/>Das Schweriner Schloss hat den begehrten Status UNESCO-Welterbe erhalten. Damit steht es in einer Reihe mit dem Taj Mahal, der Chinesischen Mauer und den Pyramiden von Gizeh.[<a href="https://www.tagesschau.de/inland/regional/schwerin-unesco-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>schwerin-unesco-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/regional/schwerin-unesco-100~rss2.xml"/>
+  </item>
+  <item rdf:about="tagesschau_fm-story-WDR-6fc48b92-b165-44c0-8a09-b243543dde26">
+    <title>NRW: Verdächtiges Pulver in DHL-Zentrum - ein Verletzter</title>
+    <link>https://www.tagesschau.de/nordrhein-westfalen-grosseinsatz-verdaechtiges-pulver-verletzter-dhl-zentrum-100.html</link>
+    <description>In einem DHL-Logistikzentrum in Geseke nahe Paderborn wurden Päckchen mit einem unbekannten weißen Pulver gefunden. Mehrere Mitarbeiter kamen mit dem Stoff in Berührung, einer von ihnen kam verletzt ins Krankenhaus.</description>
+    <pubDate>Sat, 27 Jul 2024 13:04:00 +0200</pubDate>
+    <guid>tagesschau_fm-story-WDR-6fc48b92-b165-44c0-8a09-b243543dde26</guid>
+    <dc:date>2024-07-27T11:04:00Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/nordrhein-westfalen-grosseinsatz-verdaechtiges-pulver-verletzter-dhl-zentrum-100.html"><img src="https://images.tagesschau.de/image/507397e9-fb74-436f-8cbf-cdf095f05989/AAABkPQysJc/AAABjwnlFvA/16x9-1280/wdr-grosseinsatz-geseke-100.jpg" alt="Einsatzkräfte stehen auf einem Parkplatz | [12:30] Katja Goebel / WDR" /></a> <br/> <br/>In einem DHL-Logistikzentrum in Geseke nahe Paderborn wurden Päckchen mit einem unbekannten weißen Pulver gefunden. Mehrere Mitarbeiter kamen mit dem Stoff in Berührung, einer von ihnen kam verletzt ins Krankenhaus.[<a href="https://www.tagesschau.de/nordrhein-westfalen-grosseinsatz-verdaechtiges-pulver-verletzter-dhl-zentrum-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>nordrhein-westfalen-grosseinsatz-verdaechtiges-pulver-verletzter-dhl-zentrum-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/nordrhein-westfalen-grosseinsatz-verdaechtiges-pulver-verletzter-dhl-zentrum-100~rss2.xml"/>
+  </item>
+  <item rdf:about="e2d6ccb3-f075-4029-b395-646d5195154f">
+    <title>Manila: Sorge vor schwerer Ölpest nach Tankerunglück</title>
+    <link>https://www.tagesschau.de/ausland/manila-oelpest-100.html</link>
+    <description>Die "MT Terra Nova" war am Donnerstag im Unwetter vor Manila gesunken. Ein Teil der rund 1,4 Millionen Liter Schweröl an Bord ist bereits ausgelaufen. Die Küstenwache muss nun eine Umweltkatastrophe abwenden.</description>
+    <pubDate>Sat, 27 Jul 2024 13:26:55 +0200</pubDate>
+    <guid>e2d6ccb3-f075-4029-b395-646d5195154f</guid>
+    <dc:date>2024-07-27T11:26:55Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/manila-oelpest-100.html"><img src="https://images.tagesschau.de/image/bafc5848-f8cf-43ac-84bd-71a3a3c4f7e1/AAABkPPVaxs/AAABjwnlFvA/16x9-1280/manila-tanker-100.jpg" alt="Ein Boot der Küstenwache im Einsatz vor Manila | EPA" /></a> <br/> <br/>Die "MT Terra Nova" war am Donnerstag im Unwetter vor Manila gesunken. Ein Teil der rund 1,4 Millionen Liter Schweröl an Bord ist bereits ausgelaufen. Die Küstenwache muss nun eine Umweltkatastrophe abwenden.[<a href="https://www.tagesschau.de/ausland/manila-oelpest-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>manila-oelpest-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/manila-oelpest-100~rss2.xml"/>
+  </item>
+  <item rdf:about="tagesschau_fm-story-rbb_csd-2024-berlin-christopher-street-day-lgbtiq">
+    <title>Parade des Christopher Street Day zieht durch Berlin</title>
+    <link>https://www.tagesschau.de/inland/gesellschaft/csd-berlin-122.html</link>
+    <description>In Berlin hat die Demo zum Christopher Street Day begonnen. Das Motto lautet "Nur gemeinsam stark - für Demokratie und Vielfalt". Berlins Regierender Bürgermeister Wegner rief zur Verteidigung von Vielfalt und Toleranz in der Gesellschaft auf.</description>
+    <pubDate>Sat, 27 Jul 2024 17:26:25 +0200</pubDate>
+    <guid>tagesschau_fm-story-rbb_csd-2024-berlin-christopher-street-day-lgbtiq</guid>
+    <dc:date>2024-07-27T15:26:25Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/gesellschaft/csd-berlin-122.html"><img src="https://images.tagesschau.de/image/3b319b3a-4db7-4de6-bf4b-43d91184b3e6/AAABkPTQOLo/AAABjwnlFvA/16x9-1280/rbb-audio-antenne-brandenburg-26-07-2024-david-donschen-102.jpg" alt="Berlin: Gute Stimmung herrscht auf einem der Wagen bei dem 46. Berlin Pride Umzug zum Christopher Street Day (CSD). (Foto: dpa) | dpa " /></a> <br/> <br/>In Berlin hat die Demo zum Christopher Street Day begonnen. Das Motto lautet "Nur gemeinsam stark - für Demokratie und Vielfalt". Berlins Regierender Bürgermeister Wegner rief zur Verteidigung von Vielfalt und Toleranz in der Gesellschaft auf.[<a href="https://www.tagesschau.de/inland/gesellschaft/csd-berlin-122.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>csd-berlin-122</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/gesellschaft/csd-berlin-122~rss2.xml"/>
+  </item>
+  <item rdf:about="e589e7d1-d7ea-4fd5-8e50-aa18658a8cf9">
+    <title>Ukraine-Liveblog: ++ Yellen setzt auf Ukraine-Kredit der G7 ++</title>
+    <link>https://www.tagesschau.de/newsticker/liveblog-ukraine-samstag-412.html</link>
+    <description>US-Finanzministerin Yellen ist optimistisch, dass sich die G7-Länder bis Oktober auf einen 50-Milliarden-Dollar-Kredit für die Ukraine einigen. Russland berichtet von abgefangenen ukrainischen Drohnen. Die Entwicklungen im Liveblog.</description>
+    <pubDate>Sat, 27 Jul 2024 15:59:35 +0200</pubDate>
+    <guid>e589e7d1-d7ea-4fd5-8e50-aa18658a8cf9</guid>
+    <dc:date>2024-07-27T13:59:35Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-samstag-412.html"><img src="https://images.tagesschau.de/image/5b073b67-29bf-4703-b6b1-71469e4c25bb/AAABjz78AfM/AAABjwnlFvA/16x9-1280/flagge-ukraine-truemmer-101.jpg" alt="Eine zerrissene ukrainische Flagge hängt an einem Draht vor einem Wohnhaus, das während des russischen Angriffskrieges in der südukrainischen Hafenstadt Mariupol am 14. April 2022 zerstört wurde. | REUTERS" /></a> <br/> <br/>US-Finanzministerin Yellen ist optimistisch, dass sich die G7-Länder bis Oktober auf einen 50-Milliarden-Dollar-Kredit für die Ukraine einigen. Russland berichtet von abgefangenen ukrainischen Drohnen. Die Entwicklungen im Liveblog.[<a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-samstag-412.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>liveblog-ukraine-samstag-412</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/newsticker/liveblog-ukraine-samstag-412~rss2.xml"/>
+  </item>
+  <item rdf:about="ea36c874-eeab-44da-a8ea-ff12a949ce2b">
+    <title>Wie Deutschland auf Bidens Nachfolge schaut</title>
+    <link>https://www.tagesschau.de/inland/innenpolitik/bundesregierung-harris-trump-100.html</link>
+    <description>Seit US-Präsident Biden erklärt hat, dass er nicht für eine zweite Amtszeit kandidiert, ist klar: Im Weißen Haus wird es mit Trump oder Harris einen Wechsel geben. Wie bereitet sich die Bundesregierung vor? Von Georg Schwarte.</description>
+    <pubDate>Sat, 27 Jul 2024 11:21:21 +0200</pubDate>
+    <guid>ea36c874-eeab-44da-a8ea-ff12a949ce2b</guid>
+    <dc:date>2024-07-27T09:21:21Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/innenpolitik/bundesregierung-harris-trump-100.html"><img src="https://images.tagesschau.de/image/95925174-6b52-4c93-ad61-ab6175ff531f/AAABkPN-oxk/AAABjwnlFvA/16x9-1280/scholz-biden-114.jpg" alt="Olaf Scholz und Joe Biden | dpa" /></a> <br/> <br/>Seit US-Präsident Biden erklärt hat, dass er nicht für eine zweite Amtszeit kandidiert, ist klar: Im Weißen Haus wird es mit Trump oder Harris einen Wechsel geben. Wie bereitet sich die Bundesregierung vor? <em>Von Georg Schwarte.</em>[<a href="https://www.tagesschau.de/inland/innenpolitik/bundesregierung-harris-trump-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>bundesregierung-harris-trump-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/innenpolitik/bundesregierung-harris-trump-100~rss2.xml"/>
+  </item>
+  <item rdf:about="1b1be7e8-0d1d-45c8-bae5-7b7bf5c1e53c">
+    <title>Israels Armee ordnet Evakuierung von humanitärer Zone in Chan Yunis an</title>
+    <link>https://www.tagesschau.de/ausland/asien/nahost-krieg-gaza-chan-yunis-evakuierung-israel-102.html</link>
+    <description>Das zweite Mal binnen einer Woche hat Israels Armee in Teilen von Chan Yunis eine Evakuierung angeordnet. Das Gebiet liegt eigentlich in der humanitären Schutzzone. Laut Israel sollen sich dort aber inzwischen Hamas-Kämpfer befinden.</description>
+    <pubDate>Sat, 27 Jul 2024 11:20:06 +0200</pubDate>
+    <guid>1b1be7e8-0d1d-45c8-bae5-7b7bf5c1e53c</guid>
+    <dc:date>2024-07-27T09:20:06Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/asien/nahost-krieg-gaza-chan-yunis-evakuierung-israel-102.html"><img src="https://images.tagesschau.de/image/19c12b1a-04e8-4fd6-8be3-428a49b62b8c/AAABkPNKEZc/AAABjwnlFvA/16x9-1280/khan-yunis-100.jpg" alt="Palästinenser stehen während einer israelischen Militäroperation in Khan Younis vor ihrer Behelfsunterkunft  | EPA" /></a> <br/> <br/>Das zweite Mal binnen einer Woche hat Israels Armee in Teilen von Chan Yunis eine Evakuierung angeordnet. Das Gebiet liegt eigentlich in der humanitären Schutzzone. Laut Israel sollen sich dort aber inzwischen Hamas-Kämpfer befinden.[<a href="https://www.tagesschau.de/ausland/asien/nahost-krieg-gaza-chan-yunis-evakuierung-israel-102.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>nahost-krieg-gaza-chan-yunis-evakuierung-israel-102</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/asien/nahost-krieg-gaza-chan-yunis-evakuierung-israel-102~rss2.xml"/>
+  </item>
+  <item rdf:about="b94c4ff7-4838-458f-a928-e256cf3b2796">
+    <title>Nach Anschlägen: Bahnverkehr in Frankreich normalisiert sich allmählich</title>
+    <link>https://www.tagesschau.de/ausland/europa/frankreich-anschlag-bahn-100.html</link>
+    <description>Angezündete Signalanlagen, durchtrennte Kabel: Kurz vor Eröffnung der Olympischen Spiele haben Anschläge den französischen Bahnverkehr stark beeinträchtigt. Nun fahren einige Züge wieder nach Plan, andere sind weiter verspätet.</description>
+    <pubDate>Sat, 27 Jul 2024 10:51:13 +0200</pubDate>
+    <guid>b94c4ff7-4838-458f-a928-e256cf3b2796</guid>
+    <dc:date>2024-07-27T08:51:13Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/frankreich-anschlag-bahn-100.html"><img src="https://images.tagesschau.de/image/2edd96f9-814f-46d0-bbb6-d42a7cd5a009/AAABkPNjC4o/AAABjwnlFvA/16x9-1280/frankreich-zug-100.jpg" alt="Ein Hochgeschwindigkeitszug der französischen Eisenbahngesellschaft SNCF fährt auf der Strecke Bordeaux-Paris in Chartres, Nordfrankreich. | AFP" /></a> <br/> <br/>Angezündete Signalanlagen, durchtrennte Kabel: Kurz vor Eröffnung der Olympischen Spiele haben Anschläge den französischen Bahnverkehr stark beeinträchtigt. Nun fahren einige Züge wieder nach Plan, andere sind weiter verspätet.[<a href="https://www.tagesschau.de/ausland/europa/frankreich-anschlag-bahn-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>frankreich-anschlag-bahn-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/europa/frankreich-anschlag-bahn-100~rss2.xml"/>
+  </item>
+  <item rdf:about="e1555f8f-3778-4573-81d8-c4b13e256a55">
+    <title>Attentat auf Trump: FBI bestätigt, dass es eine Kugel war</title>
+    <link>https://www.tagesschau.de/ausland/amerika/trump-attentat-fbi-100.html</link>
+    <description>Nach dem Attentat auf Trump ist ein Streit darüber entfacht, was ihn getroffen hat. Der Chef des FBI sprach von offenen Fragen - Trump reagierte empört. Nun stellte die Behörde klar: Es war eine Kugel.</description>
+    <pubDate>Sat, 27 Jul 2024 09:28:23 +0200</pubDate>
+    <guid>e1555f8f-3778-4573-81d8-c4b13e256a55</guid>
+    <dc:date>2024-07-27T07:28:23Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/trump-attentat-fbi-100.html"><img src="https://images.tagesschau.de/image/87f09a98-101b-480f-80ab-2d188f7cb1ec/AAABkPMXN7Q/AAABjwnlFvA/16x9-1280/trump-3512.jpg" alt="Donald Trump mit einem Pflaster am Ohr bei einer Wahlkampfveranstaltung. | REUTERS" /></a> <br/> <br/>Nach dem Attentat auf Trump ist ein Streit darüber entfacht, was ihn getroffen hat. Der Chef des FBI sprach von offenen Fragen - Trump reagierte empört. Nun stellte die Behörde klar: Es war eine Kugel.[<a href="https://www.tagesschau.de/ausland/amerika/trump-attentat-fbi-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>trump-attentat-fbi-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/amerika/trump-attentat-fbi-100~rss2.xml"/>
+  </item>
+  <item rdf:about="9205612a-7f56-4f20-b704-896a1f68baf3">
+    <title>Baerbock kritisiert SPD-Versprechen der Abschiebung von Afghanen und Syrern</title>
+    <link>https://www.tagesschau.de/inland/innenpolitik/baerbock-scholz-faeser-abschiebung-afghanistan-syrien-100.html</link>
+    <description>Kanzler Scholz hat schnelle Abschiebungen von afghanischen und syrischen Straftätern zugesagt. Außenministerin Baerbock kritisiert das Versprechen als nicht haltbar. Allein durch Abschiebungen ließe sich das Problem mit Gefährdern nicht lösen.</description>
+    <pubDate>Sat, 27 Jul 2024 09:14:50 +0200</pubDate>
+    <guid>9205612a-7f56-4f20-b704-896a1f68baf3</guid>
+    <dc:date>2024-07-27T07:14:50Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/innenpolitik/baerbock-scholz-faeser-abschiebung-afghanistan-syrien-100.html"><img src="https://images.tagesschau.de/image/ad0f02f1-3b7b-4c44-9081-78c137b0b125/AAABkPLu4m8/AAABjwnlFvA/16x9-1280/annalena-baerbock-232.jpg" alt="Annalena Baerbock | dpa" /></a> <br/> <br/>Kanzler Scholz hat schnelle Abschiebungen von afghanischen und syrischen Straftätern zugesagt. Außenministerin Baerbock kritisiert das Versprechen als nicht haltbar. Allein durch Abschiebungen ließe sich das Problem mit Gefährdern nicht lösen.[<a href="https://www.tagesschau.de/inland/innenpolitik/baerbock-scholz-faeser-abschiebung-afghanistan-syrien-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>baerbock-scholz-faeser-abschiebung-afghanistan-syrien-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/innenpolitik/baerbock-scholz-faeser-abschiebung-afghanistan-syrien-100~rss2.xml"/>
+  </item>
+  <item rdf:about="6c573b42-8e4e-4a89-9817-aa53d73d19c3">
+    <title>Viele Bundesländer bieten Urlaubszuschüsse für Geringverdiener</title>
+    <link>https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-beduerftige-zuschuss-100.html</link>
+    <description>Immer mehr Menschen können es sich nicht leisten, eine Woche in den Urlaub zu fahren. Dabei gibt es in vielen Bundesländern Unterstützung vom Staat. Was dabei zu beachten gilt, erklärt Florian Decker.</description>
+    <pubDate>Sat, 27 Jul 2024 09:01:39 +0200</pubDate>
+    <guid>6c573b42-8e4e-4a89-9817-aa53d73d19c3</guid>
+    <dc:date>2024-07-27T07:01:39Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-beduerftige-zuschuss-100.html"><img src="https://images.tagesschau.de/image/abe59500-850b-45ae-9863-ede5b3b4bf83/AAABkKEOmz4/AAABjwnlFvA/16x9-1280/urlaub-126.jpg" alt="Frau mit geblümtem Kleid geht mit zwei Rollkoffern durch eine Flughafenhalle. | picture alliance/dpa" /></a> <br/> <br/>Immer mehr Menschen können es sich nicht leisten, eine Woche in den Urlaub zu fahren. Dabei gibt es in vielen Bundesländern Unterstützung vom Staat. Was dabei zu beachten gilt, erklärt <em>Florian Decker.</em>[<a href="https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-beduerftige-zuschuss-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>urlaub-beduerftige-zuschuss-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-beduerftige-zuschuss-100~rss2.xml"/>
+  </item>
+  <item rdf:about="d57c77cd-e040-418e-a733-357ad4a7681a">
+    <title>Trans- und Frauenfeindlichkeit: Die Angst vor mächtigen Frauen</title>
+    <link>https://www.tagesschau.de/faktenfinder/michelle-obama-desinformation-fakes-100.html</link>
+    <description>Michelle Obama, Brigitte Macron oder auch Neuseelands Ex-Premierministerin Jacinda Ardern: Sie alle wurden Zielscheibe transfeindlicher Desinformation - weil sie mächtige Frauen sind. Von E. Kagermeier und P. Siggelkow.</description>
+    <pubDate>Sat, 27 Jul 2024 08:48:15 +0200</pubDate>
+    <guid>d57c77cd-e040-418e-a733-357ad4a7681a</guid>
+    <dc:date>2024-07-27T06:48:15Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/faktenfinder/michelle-obama-desinformation-fakes-100.html"><img src="https://images.tagesschau.de/image/c9bd2249-c7ea-42aa-b9d1-5faf174d34bb/AAABhnlTvsE/AAABjwnlFvA/16x9-1280/michelle-obama-127.jpg" alt="Michelle Obama beim Democratic National Convention (DNC) in Philadelphia im Juli 2016 | picture alliance / newscom" /></a> <br/> <br/>Michelle Obama, Brigitte Macron oder auch Neuseelands Ex-Premierministerin Jacinda Ardern: Sie alle wurden Zielscheibe transfeindlicher Desinformation - weil sie mächtige Frauen sind. <em>Von E. Kagermeier und P. Siggelkow.</em>[<a href="https://www.tagesschau.de/faktenfinder/michelle-obama-desinformation-fakes-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>michelle-obama-desinformation-fakes-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/faktenfinder/michelle-obama-desinformation-fakes-100~rss2.xml"/>
+  </item>
+  <item rdf:about="525f7d7a-600d-4ef3-bb3e-e7cac21ce4ef">
+    <title>Myanmar: Ende des Regimes oder kein Ende der Kämpfe?</title>
+    <link>https://www.tagesschau.de/ausland/asien/kaempfe-rebellen-myanmar-100.html</link>
+    <description>Mittlerweile hat die Militärjunta weniger als die Hälfte Myanmars unter Kontrolle. Verschiedene Rebellengruppen kämpfen zunehmend gemeinsam gegen das Regime. Aber haben sie auch eine Chance? Von J. Johnston.</description>
+    <pubDate>Sat, 27 Jul 2024 06:58:30 +0200</pubDate>
+    <guid>525f7d7a-600d-4ef3-bb3e-e7cac21ce4ef</guid>
+    <dc:date>2024-07-27T04:58:30Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/asien/kaempfe-rebellen-myanmar-100.html"><img src="https://images.tagesschau.de/image/ec0025c2-5fc1-41b5-8e16-d33d76250e5a/AAABkPKN_6o/AAABjwnlFvA/16x9-1280/rebellen-myanmar-100.jpg" alt="Mitglieder einer Rebellenarmee in Myanmars Shan-Staat. | AP" /></a> <br/> <br/>Mittlerweile hat die Militärjunta weniger als die Hälfte Myanmars unter Kontrolle. Verschiedene Rebellengruppen kämpfen zunehmend gemeinsam gegen das Regime. Aber haben sie auch eine Chance? <em>Von J. Johnston.</em>[<a href="https://www.tagesschau.de/ausland/asien/kaempfe-rebellen-myanmar-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>kaempfe-rebellen-myanmar-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/asien/kaempfe-rebellen-myanmar-100~rss2.xml"/>
+  </item>
+  <item rdf:about="76b9b867-52f0-43ea-b57d-b12abe027d92">
+    <title>Wie es mit der Kindergrundsicherung weitergeht</title>
+    <link>https://www.tagesschau.de/inland/innenpolitik/kindergrundsicherung-152.html</link>
+    <description>Die Kindergrundsicherung war als größte Sozialreform der Ampelkoalition geplant. Von einer Umsetzung ist die Bundesregierung aber weit entfernt. Woran liegt das? Und wie geht es weiter? Von Gabriele Dunkel.</description>
+    <pubDate>Sat, 27 Jul 2024 06:01:47 +0200</pubDate>
+    <guid>76b9b867-52f0-43ea-b57d-b12abe027d92</guid>
+    <dc:date>2024-07-27T04:01:47Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/innenpolitik/kindergrundsicherung-152.html"><img src="https://images.tagesschau.de/image/9200d37f-2c1d-4bb9-af56-14b89d6ef37f/AAABjDsR9zY/AAABjwnlFvA/16x9-1280/kindergrundsicherung-140.jpg" alt=" Ein Kind sitzt während der Ausgabezeit in einer Ausgabestelle der Berliner Tafel auf einer Bank. | dpa" /></a> <br/> <br/>Die Kindergrundsicherung war als größte Sozialreform der Ampelkoalition geplant. Von einer Umsetzung ist die Bundesregierung aber weit entfernt. Woran liegt das? Und wie geht es weiter? <em>Von Gabriele Dunkel.</em>[<a href="https://www.tagesschau.de/inland/innenpolitik/kindergrundsicherung-152.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>kindergrundsicherung-152</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/innenpolitik/kindergrundsicherung-152~rss2.xml"/>
+  </item>
+  <item rdf:about="3a455cdd-4022-4e98-982a-8647ae6797cc">
+    <title>Junge Erwachsene sind immer unglücklicher</title>
+    <link>https://www.tagesschau.de/wissen/gesundheit/junge-ungluecklich-100.html</link>
+    <description>Das junge Erwachsenenalter galt in der Forschung lange als die glücklichste Zeit des Lebens. Das hat sich geändert. Grund sind unter anderem Social Media und globale Krisen. Von A. Braun.</description>
+    <pubDate>Sat, 27 Jul 2024 04:22:42 +0200</pubDate>
+    <guid>3a455cdd-4022-4e98-982a-8647ae6797cc</guid>
+    <dc:date>2024-07-27T02:22:42Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wissen/gesundheit/junge-ungluecklich-100.html"><img src="https://images.tagesschau.de/image/914919b0-e629-4222-b836-64dfd590e7ac/AAABkOS1pwc/AAABjwnlFvA/16x9-1280/junge-frau-100.jpg" alt="Eine junge Frau stützt den Kopf auf ihre Hände. | picture alliance / imageBROKER" /></a> <br/> <br/>Das junge Erwachsenenalter galt in der Forschung lange als die glücklichste Zeit des Lebens. Das hat sich geändert. Grund sind unter anderem Social Media und globale Krisen. <em>Von A. Braun.</em>[<a href="https://www.tagesschau.de/wissen/gesundheit/junge-ungluecklich-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>junge-ungluecklich-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wissen/gesundheit/junge-ungluecklich-100~rss2.xml"/>
+  </item>
+  <item rdf:about="9cd7bead-65e6-4b49-870a-b6142f7375e4">
+    <title>Familienministerin Paus sorgt sich um Demokratie-Projekte</title>
+    <link>https://www.tagesschau.de/inland/gesellschaft/demokratie-projekte-ostdeutschland-100.html</link>
+    <description>Müssen Demokratie-Initiativen in Sachsen und Thüringen künftig kürzertreten, wenn die AfD dort immer stärker wird? Die Sorge treibt viele Engagierte in der Region um. Seit ihrer Sommerreise ist auch Familienministerin Paus besorgt.</description>
+    <pubDate>Sat, 27 Jul 2024 03:26:08 +0200</pubDate>
+    <guid>9cd7bead-65e6-4b49-870a-b6142f7375e4</guid>
+    <dc:date>2024-07-27T01:26:08Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/gesellschaft/demokratie-projekte-ostdeutschland-100.html"><img src="https://images.tagesschau.de/image/4e9ef52d-eb12-44cc-b27e-1a9487ec589c/AAABkPHEERo/AAABjwnlFvA/16x9-1280/lisa-paus-138.jpg" alt="Lisa Paus | dpa" /></a> <br/> <br/>Müssen Demokratie-Initiativen in Sachsen und Thüringen künftig kürzertreten, wenn die AfD dort immer stärker wird? Die Sorge treibt viele Engagierte in der Region um. Seit ihrer Sommerreise ist auch Familienministerin Paus besorgt.[<a href="https://www.tagesschau.de/inland/gesellschaft/demokratie-projekte-ostdeutschland-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>demokratie-projekte-ostdeutschland-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/gesellschaft/demokratie-projekte-ostdeutschland-100~rss2.xml"/>
+  </item>
+  <item rdf:about="3d9244f5-6e1c-454b-94cf-218fb614653b">
+    <title>G20 mit Minimalkompromiss bei Vermögensteuer</title>
+    <link>https://www.tagesschau.de/ausland/amerika/g20-finanzminister-vermoegensteuer-100.html</link>
+    <description>Die Finanzminister der G20-Staaten haben sich in Rio de Janeiro darauf geeinigt, bei der Besteuerung von Superreichen zusammenzuarbeiten. Eine weltweite Milliardärssteuer ist erst einmal vom Tisch.</description>
+    <pubDate>Sat, 27 Jul 2024 08:43:36 +0200</pubDate>
+    <guid>3d9244f5-6e1c-454b-94cf-218fb614653b</guid>
+    <dc:date>2024-07-27T06:43:36Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/g20-finanzminister-vermoegensteuer-100.html"><img src="https://images.tagesschau.de/image/7828f0a2-0a6f-40f9-bf40-989fbfa422e5/AAABkPGpf5o/AAABjwnlFvA/16x9-1280/g20-brasilien-100.jpg" alt="Brasiliens Wirtschaftsminister Fernando Haddad geht an einer Wand mit der Aufschrift "G20 Brasil 2024" vorbei. | AFP" /></a> <br/> <br/>Die Finanzminister der G20-Staaten haben sich in Rio de Janeiro darauf geeinigt, bei der Besteuerung von Superreichen zusammenzuarbeiten. Eine weltweite Milliardärssteuer ist erst einmal vom Tisch.[<a href="https://www.tagesschau.de/ausland/amerika/g20-finanzminister-vermoegensteuer-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>g20-finanzminister-vermoegensteuer-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/amerika/g20-finanzminister-vermoegensteuer-100~rss2.xml"/>
+  </item>
+  <item rdf:about="d0f41246-4c53-4711-a5e6-c7fa4600a0c5">
+    <title>Bauministerin Geywitz: Raus aufs Land statt Wohnungsnot in der Stadt</title>
+    <link>https://www.tagesschau.de/inland/innenpolitik/geywitz-wohnungsnot-100.html</link>
+    <description>Sind Umzüge in ländliche Gebiete die Lösung, um den Wohnungsmarkt in Großstädten zu entlasten? Das schlägt Bauministerin Geywitz nun vor. Eine wichtige Rolle bei ihrer Idee spielt die Möglichkeit, im Homeoffice zu arbeiten.</description>
+    <pubDate>Sat, 27 Jul 2024 01:36:43 +0200</pubDate>
+    <guid>d0f41246-4c53-4711-a5e6-c7fa4600a0c5</guid>
+    <dc:date>2024-07-26T23:36:43Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/inland/innenpolitik/geywitz-wohnungsnot-100.html"><img src="https://images.tagesschau.de/image/6049d535-cee8-4913-97e0-b5dfd079583a/AAABjmFLoi4/AAABjwnlFvA/16x9-1280/wohnen-frankfurt-100.jpg" alt="Blick vom Dorf Weilbach auf die 17 km Luftlinie entfernte Skyline von Frankfurt am Main. | picture alliance / Jochen Tack" /></a> <br/> <br/>Sind Umzüge in ländliche Gebiete die Lösung, um den Wohnungsmarkt in Großstädten zu entlasten? Das schlägt Bauministerin Geywitz nun vor. Eine wichtige Rolle bei ihrer Idee spielt die Möglichkeit, im Homeoffice zu arbeiten.[<a href="https://www.tagesschau.de/inland/innenpolitik/geywitz-wohnungsnot-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>geywitz-wohnungsnot-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/inland/innenpolitik/geywitz-wohnungsnot-100~rss2.xml"/>
+  </item>
+  <item rdf:about="8036c8f6-68c5-475f-bc2f-cc023db5ff9f">
+    <title>Olympische Spiele in Paris offiziell eröffnet</title>
+    <link>https://www.tagesschau.de/sport/olympische-spiele-2024-100.html</link>
+    <description>In Paris sind die Olympischen Sommerspiele 2024 offiziell eröffnet worden. Die Flamme zur Entzündung des olympischen Feuers ging zuvor durch die Hände eines Star-Aufgebots.</description>
+    <pubDate>Fri, 26 Jul 2024 23:42:15 +0200</pubDate>
+    <guid>8036c8f6-68c5-475f-bc2f-cc023db5ff9f</guid>
+    <dc:date>2024-07-26T21:42:15Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/sport/olympische-spiele-2024-100.html"><img src="https://images.tagesschau.de/image/ccb9e15b-de14-4cff-a776-bb5c25e3313d/AAABkPD9u64/AAABjwnlFvA/16x9-1280/olympische-flamme-106.jpg" alt="Marie-José Pérec und Teddy Riner entzünden die olympische Flamme | EPA" /></a> <br/> <br/>In Paris sind die Olympischen Sommerspiele 2024 offiziell eröffnet worden. Die Flamme zur Entzündung des olympischen Feuers ging zuvor durch die Hände eines Star-Aufgebots.[<a href="https://www.tagesschau.de/sport/olympische-spiele-2024-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>olympische-spiele-2024-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/sport/olympische-spiele-2024-100~rss2.xml"/>
+  </item>
+  <item rdf:about="7267b486-cfa6-45c4-9118-5cbfca11eb6b">
+    <title>Marktbericht: Erholung an der Wall Street</title>
+    <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-kursrutsch-nasdaq-dow-boerse-aktien-gold-oel-chatgpt-meta-100.html</link>
+    <description>Vor wichtigen Daten in der kommenden Woche haben die US-Anleger die jüngsten Sorgen um die Tech-Aktien hinter sich gelassen. Der Wall Street gelang ein gelungenes Comeback.</description>
+    <pubDate>Fri, 26 Jul 2024 22:19:06 +0200</pubDate>
+    <guid>7267b486-cfa6-45c4-9118-5cbfca11eb6b</guid>
+    <dc:date>2024-07-26T20:19:06Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-kursrutsch-nasdaq-dow-boerse-aktien-gold-oel-chatgpt-meta-100.html"><img src="https://images.tagesschau.de/image/b7f6ab49-1060-4a3a-882d-721723034490/AAABi84q1mk/AAABjwnlFvA/16x9-1280/nyse-260.jpg" alt="Händler an der New York Stock Exchange | picture alliance / ASSOCIATED PR" /></a> <br/> <br/>Vor wichtigen Daten in der kommenden Woche haben die US-Anleger die jüngsten Sorgen um die Tech-Aktien hinter sich gelassen. Der Wall Street gelang ein gelungenes Comeback. [<a href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-kursrutsch-nasdaq-dow-boerse-aktien-gold-oel-chatgpt-meta-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>marktbericht-dax-kursrutsch-nasdaq-dow-boerse-aktien-gold-oel-chatgpt-meta-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-kursrutsch-nasdaq-dow-boerse-aktien-gold-oel-chatgpt-meta-100~rss2.xml"/>
+  </item>
+  <item rdf:about="39e5c8b2-104b-464a-b268-988446b756c7">
+    <title>Trump und Netanyahu beschwören ihre gegenseitige Loyalität</title>
+    <link>https://www.tagesschau.de/ausland/amerika/trump-netanyahu-treffen-100.html</link>
+    <description>Am fünften Tag seiner USA-Reise hat Israels Regierungschef Netanyahu Ex-Präsident Trump in Florida besucht. Dabei ging es auch um den Krieg in Gaza - zugleich versuchten beide Politiker, ihre Allianz zu kitten.</description>
+    <pubDate>Fri, 26 Jul 2024 21:51:58 +0200</pubDate>
+    <guid>39e5c8b2-104b-464a-b268-988446b756c7</guid>
+    <dc:date>2024-07-26T19:51:58Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/amerika/trump-netanyahu-treffen-100.html"><img src="https://images.tagesschau.de/image/4be1eebd-aca7-4e0f-af91-36e9dfaf94c2/AAABkPCiBaE/AAABjwnlFvA/16x9-1280/treffen-trump-netanyahu-102.jpg" alt=" Donald Trump (l) trifft Benjamin Netanyahu und dessen Frau Sara | AFP" /></a> <br/> <br/>Am fünften Tag seiner USA-Reise hat Israels Regierungschef Netanyahu Ex-Präsident Trump in Florida besucht. Dabei ging es auch um den Krieg in Gaza - zugleich versuchten beide Politiker, ihre Allianz zu kitten.[<a href="https://www.tagesschau.de/ausland/amerika/trump-netanyahu-treffen-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>trump-netanyahu-treffen-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/amerika/trump-netanyahu-treffen-100~rss2.xml"/>
+  </item>
+  <item rdf:about="5c958199-e3c1-4173-a87d-6c934ee26535">
+    <title>Nahost-Liveblog: ++ Israel: Offensive gegen Hisbollah in Planung ++</title>
+    <link>https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-162.html</link>
+    <description>Israels Armee bereitet laut eigenen Angaben eine "entscheidende Offensive" gegen die Hisbollah-Miliz im Libanon vor. Das UN-Welternährungsprogramm sieht sich gezwungen, Lebensmittelrationen in Gaza zu verkleinern. Der Liveblog vom Freitag zum Nachlesen.</description>
+    <pubDate>Fri, 26 Jul 2024 22:30:34 +0200</pubDate>
+    <guid>5c958199-e3c1-4173-a87d-6c934ee26535</guid>
+    <dc:date>2024-07-26T20:30:34Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-162.html"><img src="https://images.tagesschau.de/image/e365725b-db56-4c07-9bf6-67c7b59cc4a7/AAABhnRDex8/AAABjwnlFvA/16x9-1280/israel-flagge-105.jpg" alt="Israelische Flagge | picture alliance / 360-Berlin" /></a> <br/> <br/>Israels Armee bereitet laut eigenen Angaben eine "entscheidende Offensive" gegen die Hisbollah-Miliz im Libanon vor. Das UN-Welternährungsprogramm sieht sich gezwungen, Lebensmittelrationen in Gaza zu verkleinern. Der Liveblog vom Freitag zum Nachlesen.[<a href="https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-162.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>liveblog-nahost-freitag-162</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-162~rss2.xml"/>
+  </item>
+  <item rdf:about="f4c379de-73d5-4fba-bea6-a019313e79eb">
+    <title>Welt-Aids-Konferenz: "Kampf gegen HIV braucht mehr Engagement"</title>
+    <link>https://www.tagesschau.de/wissen/gesundheit/bilanz-welt-aids-kongress-100.html</link>
+    <description>Aids ist gut behandelbar, und es gibt große Fortschritte bei der Prävention. Aber es braucht mehr Engagement und verbindliche Finanzierungszusagen, um HIV bis 2030 weitgehend zu besiegen, so das Fazit der Welt-Aids-Konferenz in München. Von Dorothee Rengeling.</description>
+    <pubDate>Fri, 26 Jul 2024 17:55:44 +0200</pubDate>
+    <guid>f4c379de-73d5-4fba-bea6-a019313e79eb</guid>
+    <dc:date>2024-07-26T15:55:44Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wissen/gesundheit/bilanz-welt-aids-kongress-100.html"><img src="https://images.tagesschau.de/image/88f965fd-752d-4f02-b7ef-bf48cba7b4a5/AAABkO_BWB0/AAABjwnlFvA/16x9-1280/aidsschleifen-100.jpg" alt="Aidsschleifen | dpa" /></a> <br/> <br/>Aids ist gut behandelbar, und es gibt große Fortschritte bei der Prävention. Aber es braucht mehr Engagement und verbindliche Finanzierungszusagen, um HIV bis 2030 weitgehend zu besiegen, so das Fazit der Welt-Aids-Konferenz in München. <em>Von Dorothee Rengeling.</em> [<a href="https://www.tagesschau.de/wissen/gesundheit/bilanz-welt-aids-kongress-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>bilanz-welt-aids-kongress-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wissen/gesundheit/bilanz-welt-aids-kongress-100~rss2.xml"/>
+  </item>
+  <item rdf:about="fdb8d4f6-1df5-4cb6-9bc7-d21f230f3061">
+    <title>Was über die Brandanschläge auf Frankreichs Bahn bekannt ist</title>
+    <link>https://www.tagesschau.de/ausland/europa/frankreich-bahn-olympia-faq-100.html</link>
+    <description>Kurz vor der Olympia-Eröffnungsfeier in Paris verüben Unbekannte Brandanschläge auf das französische Bahnnetz. Was ist genau passiert? Und welche Auswirkungen hat der Anschlag auf die Spiele? Was bislang bekannt ist.</description>
+    <pubDate>Fri, 26 Jul 2024 20:34:09 +0200</pubDate>
+    <guid>fdb8d4f6-1df5-4cb6-9bc7-d21f230f3061</guid>
+    <dc:date>2024-07-26T18:34:09Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/frankreich-bahn-olympia-faq-100.html"><img src="https://images.tagesschau.de/image/14152df4-02b4-45a3-91e6-6b71a496ca56/AAABkO81OaM/AAABjwnlFvA/16x9-1280/bahnsteig-gare-du-nord-100.jpg" alt="Gestrandete Passagiere warten im Bahnhof Gare du Nord in Paris. | EPA" /></a> <br/> <br/>Kurz vor der Olympia-Eröffnungsfeier in Paris verüben Unbekannte Brandanschläge auf das französische Bahnnetz. Was ist genau passiert? Und welche Auswirkungen hat der Anschlag auf die Spiele? Was bislang bekannt ist.[<a href="https://www.tagesschau.de/ausland/europa/frankreich-bahn-olympia-faq-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>frankreich-bahn-olympia-faq-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/europa/frankreich-bahn-olympia-faq-100~rss2.xml"/>
+  </item>
+  <item rdf:about="fc60b40b-ba86-4ab1-9e92-2d1bfa8b39c3">
+    <title>Was bringen die Olympischen Spiele in Paris der Wirtschaft?</title>
+    <link>https://www.tagesschau.de/wirtschaft/konjunktur/paris-olympische-spiele-wirtschaftlicher-effekt-kosten-einnahmen-skepsis-100.html</link>
+    <description>Frankreich richtet zum dritten Mal die Olympischen Sommerspiele aus. Das Gastgeberland verspricht sich davon auch wirtschaftliche Impulse. Doch sind die Effekte überhaupt so groß? Von Anne-Catherine Beck und Antje Erhard.</description>
+    <pubDate>Fri, 26 Jul 2024 17:49:01 +0200</pubDate>
+    <guid>fc60b40b-ba86-4ab1-9e92-2d1bfa8b39c3</guid>
+    <dc:date>2024-07-26T15:49:01Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/konjunktur/paris-olympische-spiele-wirtschaftlicher-effekt-kosten-einnahmen-skepsis-100.html"><img src="https://images.tagesschau.de/image/6abb222e-93d5-473c-9be0-a0d16ddfec70/AAABkO_Q7wI/AAABjwnlFvA/16x9-1280/paris-la-defense-100.jpg" alt="Blick auf das Pariser Finanzviertel La Défense | EPA" /></a> <br/> <br/>Frankreich richtet zum dritten Mal die Olympischen Sommerspiele aus. Das Gastgeberland verspricht sich davon auch wirtschaftliche Impulse. Doch sind die Effekte überhaupt so groß? <em>Von Anne-Catherine Beck und Antje Erhard.</em>[<a href="https://www.tagesschau.de/wirtschaft/konjunktur/paris-olympische-spiele-wirtschaftlicher-effekt-kosten-einnahmen-skepsis-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>paris-olympische-spiele-wirtschaftlicher-effekt-kosten-einnahmen-skepsis-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wirtschaft/konjunktur/paris-olympische-spiele-wirtschaftlicher-effekt-kosten-einnahmen-skepsis-100~rss2.xml"/>
+  </item>
+  <item rdf:about="42a3263d-c769-428f-a888-1368f4e6cb2a">
+    <title>Neapel erneut von schwerem Erdbeben erschüttert</title>
+    <link>https://www.tagesschau.de/ausland/europa/erdbeben-sueditalien-100.html</link>
+    <description>Die U-Bahn stoppte, ein Fels fiel ins Meer, Menschen flüchteten auf die Straße. Im Raum Neapel bebte die Erde so stark wie zuletzt im Mai - als ein 40-Jahres-Rekord gebrochen wurde. Verletzt wurde offenbar niemand.</description>
+    <pubDate>Fri, 26 Jul 2024 17:40:59 +0200</pubDate>
+    <guid>42a3263d-c769-428f-a888-1368f4e6cb2a</guid>
+    <dc:date>2024-07-26T15:40:59Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/erdbeben-sueditalien-100.html"><img src="https://images.tagesschau.de/image/f9d51638-79f9-46d7-9ce3-47fdbab65fde/AAABkO-rcV0/AAABjwnlFvA/16x9-1280/karte-erdbeben-phlegraeische-felder-100.jpg" alt="Karte Erdbeben Phlegräische Felder nahe Neapel in Italien | ARD-aktuell" /></a> <br/> <br/>Die U-Bahn stoppte, ein Fels fiel ins Meer, Menschen flüchteten auf die Straße. Im Raum Neapel bebte die Erde so stark wie zuletzt im Mai - als ein 40-Jahres-Rekord gebrochen wurde. Verletzt wurde offenbar niemand.[<a href="https://www.tagesschau.de/ausland/europa/erdbeben-sueditalien-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>erdbeben-sueditalien-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/europa/erdbeben-sueditalien-100~rss2.xml"/>
+  </item>
+  <item rdf:about="af220ef5-e114-471c-94a4-1014ee5a608a">
+    <title>EU-Behörde lehnt Empfehlung von Alzheimer-Medikament ab</title>
+    <link>https://www.tagesschau.de/wissen/gesundheit/alzheimer-medikament-102.html</link>
+    <description>Der Wirkstoff Lecanemab galt als Hoffnungsträger im Kampf gegen Alzheimer. Nun wurde eine Empfehlung des Medikaments von der EU-Zulassungsbehörde abgelehnt - mit einer klaren Begründung.</description>
+    <pubDate>Fri, 26 Jul 2024 16:33:04 +0200</pubDate>
+    <guid>af220ef5-e114-471c-94a4-1014ee5a608a</guid>
+    <dc:date>2024-07-26T14:33:04Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wissen/gesundheit/alzheimer-medikament-102.html"><img src="https://images.tagesschau.de/image/4581f032-de05-4b9c-b759-63af3c4f4ba6/AAABkO-AzSo/AAABjwnlFvA/16x9-1280/lecanemab-100.jpg" alt="Das Medikament Lecanemab. | picture alliance / ASSOCIATED PR" /></a> <br/> <br/>Der Wirkstoff Lecanemab galt als Hoffnungsträger im Kampf gegen Alzheimer. Nun wurde eine Empfehlung des Medikaments von der EU-Zulassungsbehörde abgelehnt - mit einer klaren Begründung. [<a href="https://www.tagesschau.de/wissen/gesundheit/alzheimer-medikament-102.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>alzheimer-medikament-102</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wissen/gesundheit/alzheimer-medikament-102~rss2.xml"/>
+  </item>
+  <item rdf:about="d7bab909-2a30-422e-9273-b6c067925489">
+    <title>EU-Defizitverfahren gegen Frankreich und sechs weitere Länder</title>
+    <link>https://www.tagesschau.de/ausland/europa/eu-kommission-defizitverfahren-100.html</link>
+    <description>Bei sieben EU-Staaten ist die Neuverschuldung zu hoch. Die EU hat nun gegen Frankreich, Italien, Belgien, Malta, Polen, die Slowakei und Ungarn ein Verfahren eingeleitet. Die hohen Schulden gefährdeten die Stabilität des Euro.</description>
+    <pubDate>Fri, 26 Jul 2024 16:14:33 +0200</pubDate>
+    <guid>d7bab909-2a30-422e-9273-b6c067925489</guid>
+    <dc:date>2024-07-26T14:14:33Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/eu-kommission-defizitverfahren-100.html"><img src="https://images.tagesschau.de/image/408d96d1-0ac3-45dc-94ed-d60ebedb6674/AAABhnkFiqY/AAABjwnlFvA/16x9-1280/eu-kommission-241.jpg" alt="EU-Fahnen wehen vor dem Sitz der EU-Kommission in Brüssel | picture alliance/dpa/XinHua" /></a> <br/> <br/>Bei sieben EU-Staaten ist die Neuverschuldung zu hoch. Die EU hat nun gegen Frankreich, Italien, Belgien, Malta, Polen, die Slowakei und Ungarn ein Verfahren eingeleitet. Die hohen Schulden gefährdeten die Stabilität des Euro.[<a href="https://www.tagesschau.de/ausland/europa/eu-kommission-defizitverfahren-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>eu-kommission-defizitverfahren-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/europa/eu-kommission-defizitverfahren-100~rss2.xml"/>
+  </item>
+  <item rdf:about="77627568-1cc0-4707-af2a-d66459901d68">
+    <title>Deutsche Post: Lieber Packstation als Partnerfiliale?</title>
+    <link>https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-post-filialen-100.html</link>
+    <description>Briefe und Pakete auf der Ladentheke neben dem eigentlichen Geschäftsbetrieb: Als Partnerfilialen bieten kleine Läden Dienste der Deutschen Post an. Doch viele müssen jetzt schließen. Von J. Hummelsiep und C. Lemuth.</description>
+    <pubDate>Fri, 26 Jul 2024 15:50:48 +0200</pubDate>
+    <guid>77627568-1cc0-4707-af2a-d66459901d68</guid>
+    <dc:date>2024-07-26T13:50:48Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-post-filialen-100.html"><img src="https://images.tagesschau.de/image/23bc528b-e397-435d-b74d-b2e52cbf4c44/AAABkN-4YRk/AAABjwnlFvA/16x9-1280/postfiliale-bieger-102.jpg" alt="Kunden in der Postfiliale von Wolfgang Bieger in Hofheim | hr" /></a> <br/> <br/>Briefe und Pakete auf der Ladentheke neben dem eigentlichen Geschäftsbetrieb: Als Partnerfilialen bieten kleine Läden Dienste der Deutschen Post an. Doch viele müssen jetzt schließen. <em>Von J. Hummelsiep und C. Lemuth.</em>[<a href="https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-post-filialen-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>deutsche-post-filialen-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-post-filialen-100~rss2.xml"/>
+  </item>
+  <item rdf:about="2864db0d-1620-4575-b8d4-5fd7e2f57a95">
+    <title>Belarus könnte deutschen Inhaftierten als Druckmittel nutzen</title>
+    <link>https://www.tagesschau.de/ausland/europa/belarus-inhaftierter-deutscher-100.html</link>
+    <description>Ein Deutscher sitzt in Belarus im Gefängnis. Nun bittet der zum Tode Verurteilte im TV um Gnade. Experten sprechen von einer Inszenierung. Präsident Lukaschenko wolle Deutschland so zu einem Gefangenenaustausch bewegen. Von S. Laack.</description>
+    <pubDate>Fri, 26 Jul 2024 15:47:24 +0200</pubDate>
+    <guid>2864db0d-1620-4575-b8d4-5fd7e2f57a95</guid>
+    <dc:date>2024-07-26T13:47:24Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/belarus-inhaftierter-deutscher-100.html"><img src="https://images.tagesschau.de/image/9c9da6be-ce07-4b2f-a184-80d80a718d47/AAABhnSF58A/AAABjwnlFvA/16x9-1280/putin-lukaschenko-freundschaft-101.jpg" alt="Die Präsidenten von Belarus und Russland, Lukaschenko und Putin, schütteln bei Gesprächen in Sotschi die Hände. | via REUTERS" /></a> <br/> <br/>Ein Deutscher sitzt in Belarus im Gefängnis. Nun bittet der zum Tode Verurteilte im TV um Gnade. Experten sprechen von einer Inszenierung. Präsident Lukaschenko wolle Deutschland so zu einem Gefangenenaustausch bewegen. <em>Von S. Laack.</em>[<a href="https://www.tagesschau.de/ausland/europa/belarus-inhaftierter-deutscher-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>belarus-inhaftierter-deutscher-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/europa/belarus-inhaftierter-deutscher-100~rss2.xml"/>
+  </item>
+  <item rdf:about="406b3de5-132d-4c43-8bf0-43468bdf32bf">
+    <title>Ukrainer bei Olympia: Ihr wohl schwierigster Wettkampf</title>
+    <link>https://www.tagesschau.de/ausland/europa/ukraine-olympische-spiele-100.html</link>
+    <description>Noch nie nahmen so wenige Ukrainer an Olympia teil wie in Paris. Sie trainieren, während Trainingspartner getötet und Sportstätten bombardiert werden - und treten bei den Spielen gegen Russen an. Von M. Fedorova.</description>
+    <pubDate>Fri, 26 Jul 2024 14:59:50 +0200</pubDate>
+    <guid>406b3de5-132d-4c43-8bf0-43468bdf32bf</guid>
+    <dc:date>2024-07-26T12:59:50Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/europa/ukraine-olympische-spiele-100.html"><img src="https://images.tagesschau.de/image/776bc8ba-67bb-4abb-b087-3f675594c858/AAABkO-NO2w/AAABjwnlFvA/16x9-1280/ukraine-olympische-spiele-104.jpg" alt="Mitglieder der ukrainischen Fußballteams bei Olympia | REUTERS" /></a> <br/> <br/>Noch nie nahmen so wenige Ukrainer an Olympia teil wie in Paris. Sie trainieren, während Trainingspartner getötet und Sportstätten bombardiert werden - und treten bei den Spielen gegen Russen an. <em>Von M. Fedorova.</em>[<a href="https://www.tagesschau.de/ausland/europa/ukraine-olympische-spiele-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>ukraine-olympische-spiele-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/europa/ukraine-olympische-spiele-100~rss2.xml"/>
+  </item>
+  <item rdf:about="b95f2ce1-7b9c-4a7f-af01-b9cd7f077179">
+    <title>Freude in Sachsen über neues Welterbe Herrnhut</title>
+    <link>https://www.tagesschau.de/ausland/asien/unesco-weltkulturerbe-herrnhut-102.html</link>
+    <description>Die UNESCO hat die Siedlungen der Herrnhuter Brüdergemeine in Ostsachsen als Welterbe ausgezeichnet. Sachsens Medienminister Clemens zeigt sich erfreut - auch weil er einst selbst dort wohnte. Von Peter Hornung.</description>
+    <pubDate>Fri, 26 Jul 2024 14:32:55 +0200</pubDate>
+    <guid>b95f2ce1-7b9c-4a7f-af01-b9cd7f077179</guid>
+    <dc:date>2024-07-26T12:32:55Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/ausland/asien/unesco-weltkulturerbe-herrnhut-102.html"><img src="https://images.tagesschau.de/image/e46c1ce1-b528-4644-8864-a4c16499febb/AAABkO8Hq04/AAABjwnlFvA/16x9-1280/herrnhut-102.jpg" alt="Die Kirche der Brüdergemeine Herrnhut | dpa" /></a> <br/> <br/>Die UNESCO hat die Siedlungen der Herrnhuter Brüdergemeine in Ostsachsen als Welterbe ausgezeichnet. Sachsens Medienminister Clemens zeigt sich erfreut - auch weil er einst selbst dort wohnte. <em>Von Peter Hornung.</em>[<a href="https://www.tagesschau.de/ausland/asien/unesco-weltkulturerbe-herrnhut-102.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>unesco-weltkulturerbe-herrnhut-102</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/ausland/asien/unesco-weltkulturerbe-herrnhut-102~rss2.xml"/>
+  </item>
+  <item rdf:about="8275ce29-fce5-42c6-a460-b60fd4d036c9">
+    <title>KaDeWe-Kaufhäuser bleiben, aber 100 Mitarbeitende müssen gehen</title>
+    <link>https://www.tagesschau.de/wirtschaft/unternehmen/kadewe-erhalt-kaufhaueser-kuendigungen-100.html</link>
+    <description>Alle Warenhäuser der KaDeWe-Gruppe bleiben erhalten. Für das Alsterhaus in Hamburg und den Oberpollinger in München sollen neue Mietverträge unterschrieben worden sein. Dennoch müssen 100 Mitarbeitende gehen.</description>
+    <pubDate>Fri, 26 Jul 2024 14:00:17 +0200</pubDate>
+    <guid>8275ce29-fce5-42c6-a460-b60fd4d036c9</guid>
+    <dc:date>2024-07-26T12:00:17Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/wirtschaft/unternehmen/kadewe-erhalt-kaufhaueser-kuendigungen-100.html"><img src="https://images.tagesschau.de/image/1052544d-6c05-41a5-aed9-f05749c9621a/AAABkO7bwgs/AAABjwnlFvA/16x9-1280/kadewe-126.jpg" alt="Blick auf den Eingangsbereich vom Alsterhaus in Hamburg.  | picture alliance/dpa" /></a> <br/> <br/>Alle Warenhäuser der KaDeWe-Gruppe bleiben erhalten. Für das Alsterhaus in Hamburg und den Oberpollinger in München sollen neue Mietverträge unterschrieben worden sein. Dennoch müssen 100 Mitarbeitende gehen.[<a href="https://www.tagesschau.de/wirtschaft/unternehmen/kadewe-erhalt-kaufhaueser-kuendigungen-100.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>kadewe-erhalt-kaufhaueser-kuendigungen-100</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/wirtschaft/unternehmen/kadewe-erhalt-kaufhaueser-kuendigungen-100~rss2.xml"/>
+  </item>
+  <item rdf:about="a28398c6-0dfa-4e17-87d1-60a73e302e13">
+    <title>Ukraine-Liveblog: ++ Militärflugplatz auf besetzter Krim beschossen ++</title>
+    <link>https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-414.html</link>
+    <description>Das ukrainische Militär erklärt, einen russischen Militärflugplatz auf der besetzten Krim angegriffen zu haben. Präsident Selenskyj lobt die Teilnahme ukrainischer Sportler an den Olympischen Spielen. Der Liveblog vom Freitag zum Nachlesen.</description>
+    <pubDate>Fri, 26 Jul 2024 22:15:03 +0200</pubDate>
+    <guid>a28398c6-0dfa-4e17-87d1-60a73e302e13</guid>
+    <dc:date>2024-07-26T20:15:03Z</dc:date>
+    <content:encoded><![CDATA[<p> <a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-414.html"><img src="https://images.tagesschau.de/image/9573e0fd-13bc-4f34-ac91-cbbd19be05e1/AAABkO7I0N8/AAABjwnlFvA/16x9-1280/karte-ukraine-frontverlaeufe-1120.jpg" alt="Karte der Ukraine, schraffiert: von Russland besetzte Gebiete | ISW, Critical Threats Project | Stand: 25.07.2024" /></a> <br/> <br/>Das ukrainische Militär erklärt, einen russischen Militärflugplatz auf der besetzten Krim angegriffen zu haben. Präsident Selenskyj lobt die Teilnahme ukrainischer Sportler an den Olympischen Spielen. Der Liveblog vom Freitag zum Nachlesen.[<a href="https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-414.html">mehr</a>]</p>]]></content:encoded>
+    <dc:format>text/xml</dc:format>
+    <dc:rights>ARD-aktuell / tagesschau.de</dc:rights>
+    <dc:language>de</dc:language>
+    <dc:publisher>tagesschau.de</dc:publisher>
+    <dc:identifier>liveblog-ukraine-freitag-414</dc:identifier>
+    <dc:subjects></dc:subjects>
+    <dcterms:audience>all</dcterms:audience>
+    <dcterms:isFormatOf rdf:resource="https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-414~rss2.xml"/>
+  </item>
+</rdf:RDF>

@@ -1,0 +1,13 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Release\PNachrichten.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Release\PNachrichten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Release\PNachrichten.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Release\PNachrichten.exe.CodeAnalysisLog.xml
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Release\PNachrichten.exe.lastcodeanalysissucceeded
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.fNachrichten.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.fKlassifikation.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Release\PNachrichten.pdb

@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "RSSDB2Einlesen"
+cd /var/local/news
+python /usr/local/news/RSSDB2Einlesen.py mld.mld
+rm mld.mld
+echo "...RSSDB2Einlesen"

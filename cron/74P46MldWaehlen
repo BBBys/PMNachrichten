@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "74Wählen"
+mono /usr/local/news/P46MldWaehlen/P46MldWählen.exe 
+echo "...74Wählen"

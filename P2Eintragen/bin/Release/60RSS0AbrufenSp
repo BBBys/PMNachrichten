@@ -1,0 +1,5 @@
+#!/bin/sh
+echo 'RSS0Abrufen sp'
+mono /usr/local/news/RSS0Abrufen.exe sp /var/local/news/spiegel.rss
+tail /var/local/news/spiegel.rss 
+echo '...RSS0Abrufen sp'

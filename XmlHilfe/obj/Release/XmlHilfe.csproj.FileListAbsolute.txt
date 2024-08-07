@@ -1,0 +1,6 @@
+D:\Projekte\PMNachrichten\XmlHilfe\bin\Release\XmlHilfe.dll
+D:\Projekte\PMNachrichten\XmlHilfe\bin\Release\XmlHilfe.pdb
+D:\Projekte\PMNachrichten\XmlHilfe\obj\Release\XmlHilfe.csproj.AssemblyReference.cache
+D:\Projekte\PMNachrichten\XmlHilfe\obj\Release\XmlHilfe.csproj.CoreCompileInputs.cache
+D:\Projekte\PMNachrichten\XmlHilfe\obj\Release\XmlHilfe.dll
+D:\Projekte\PMNachrichten\XmlHilfe\obj\Release\XmlHilfe.pdb

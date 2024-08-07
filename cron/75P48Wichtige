@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "75Wichtige"
+mono /usr/local/news/P48WichtigeMld/P48WichtigeMld.exe localhost /var/www/html/news 
+echo "...75Wichtige HTML-Datei erstellt"

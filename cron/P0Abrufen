@@ -1,0 +1,5 @@
+#!/bin/sh
+echo 'P0Abrufen'
+mono /usr/local/news/P0Abrufen.exe localhost /var/local/news
+mono /usr/local/news/P0Abrufen.exe localhost /var/local/news
+echo '...P0Abrufen'

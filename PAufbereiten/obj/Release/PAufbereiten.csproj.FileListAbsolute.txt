@@ -1,0 +1,13 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Release\PAufbereiten.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Release\PAufbereiten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Release\PAufbereiten.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Release\Textauswertung.dll
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Release\Textauswertung.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.fAufbereiten.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.csproj.CopyComplete
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Release\PAufbereiten.pdb

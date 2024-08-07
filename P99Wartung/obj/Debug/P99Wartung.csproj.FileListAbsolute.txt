@@ -1,0 +1,10 @@
+D:\Projekte\PMNachrichten\P99Wartung\bin\Debug\P99Wartung.exe.config
+D:\Projekte\PMNachrichten\P99Wartung\bin\Debug\P99Wartung.exe
+D:\Projekte\PMNachrichten\P99Wartung\bin\Debug\P99Wartung.pdb
+D:\Projekte\PMNachrichten\P99Wartung\obj\Debug\P99Wartung.csproj.AssemblyReference.cache
+D:\Projekte\PMNachrichten\P99Wartung\obj\Debug\P99Wartung.Form1.resources
+D:\Projekte\PMNachrichten\P99Wartung\obj\Debug\Borys.Nachrichten.Properties.Resources.resources
+D:\Projekte\PMNachrichten\P99Wartung\obj\Debug\P99Wartung.csproj.GenerateResource.cache
+D:\Projekte\PMNachrichten\P99Wartung\obj\Debug\P99Wartung.csproj.CoreCompileInputs.cache
+D:\Projekte\PMNachrichten\P99Wartung\obj\Debug\P99Wartung.exe
+D:\Projekte\PMNachrichten\P99Wartung\obj\Debug\P99Wartung.pdb

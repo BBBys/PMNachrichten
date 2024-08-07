@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projekte\\PMNachrichten\\P31WörterZählen\\P31WörterZählen.csproj": {}
+  },
+  "projects": {
+    "D:\\Projekte\\PMNachrichten\\MldHilfe\\MldHilfe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projekte\\PMNachrichten\\MldHilfe\\MldHilfe.csproj",
+        "projectName": "MldHilfe",
+        "projectPath": "D:\\Projekte\\PMNachrichten\\MldHilfe\\MldHilfe.csproj",
+        "packagesPath": "C:\\Users\\Borys\\.nuget\\packages\\",
+        "outputPath": "D:\\Projekte\\PMNachrichten\\MldHilfe\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Borys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "projectReferences": {
+              "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj": {
+                "projectPath": "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj",
+        "projectName": "MySQLHilfe",
+        "projectPath": "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj",
+        "packagesPath": "C:\\Users\\Borys\\.nuget\\packages\\",
+        "outputPath": "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Borys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Projekte\\PMNachrichten\\P31WörterZählen\\P31WörterZählen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projekte\\PMNachrichten\\P31WörterZählen\\P31WörterZählen.csproj",
+        "projectName": "P31WörterZählen",
+        "projectPath": "D:\\Projekte\\PMNachrichten\\P31WörterZählen\\P31WörterZählen.csproj",
+        "packagesPath": "C:\\Users\\Borys\\.nuget\\packages\\",
+        "outputPath": "D:\\Projekte\\PMNachrichten\\P31WörterZählen\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Borys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "projectReferences": {
+              "D:\\Projekte\\PMNachrichten\\MldHilfe\\MldHilfe.csproj": {
+                "projectPath": "D:\\Projekte\\PMNachrichten\\MldHilfe\\MldHilfe.csproj"
+              },
+              "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj": {
+                "projectPath": "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj"
+              },
+              "D:\\Projekte\\PMNachrichten\\Textauswertung\\Textauswertung.csproj": {
+                "projectPath": "D:\\Projekte\\PMNachrichten\\Textauswertung\\Textauswertung.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "dependencies": {
+            "BouncyCastle.Cryptography": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "MySQLConnection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Projekte\\PMNachrichten\\Textauswertung\\Textauswertung.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projekte\\PMNachrichten\\Textauswertung\\Textauswertung.csproj",
+        "projectName": "Textauswertung",
+        "projectPath": "D:\\Projekte\\PMNachrichten\\Textauswertung\\Textauswertung.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Release\Statistik.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Release\Statistik.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Release\Statistik.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Release\Textauswertung.dll
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Release\Textauswertung.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\PStatistik.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\Statistik.fStatistik.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\Statistik.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\PStatistik.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\PStatistik.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\PStatistik.csproj.CopyComplete
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\Statistik.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Release\Statistik.pdb

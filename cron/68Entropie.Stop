@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "cron 68Entropie"
+mono /usr/local/news/P4Entropie/P4Entropie.exe
+echo "...cron 68Entropie"

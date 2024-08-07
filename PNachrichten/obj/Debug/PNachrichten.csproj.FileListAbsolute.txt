@@ -1,0 +1,14 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Debug\PNachrichten.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Debug\PNachrichten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Debug\PNachrichten.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.fNachrichten.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.fKlassifikation.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Debug\Textauswertung.dll
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\bin\Debug\Textauswertung.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PNachrichten\obj\Debug\PNachrichten.csproj.CopyComplete

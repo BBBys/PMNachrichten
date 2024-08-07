@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "P21Stop"
+mono /usr/local/news/P21Stop.exe
+echo "...P21Stop"

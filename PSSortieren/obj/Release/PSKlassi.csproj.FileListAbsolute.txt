@@ -1,0 +1,13 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\bin\Release\PSKlassifizieren.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\bin\Release\PSKlassifizieren.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\bin\Release\PSKlassifizieren.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\bin\Release\Textauswertung.dll
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\bin\Release\Textauswertung.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassi.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassifizieren.fSKlassi.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassifizieren.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassi.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassi.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassi.csproj.CopyComplete
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassifizieren.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSSortieren\obj\Release\PSKlassifizieren.pdb

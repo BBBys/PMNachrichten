@@ -1,0 +1,13 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Debug\PAufbereiten.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Debug\PAufbereiten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Debug\PAufbereiten.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.fAufbereiten.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Debug\Textauswertung.dll
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\bin\Debug\Textauswertung.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PAufbereiten\obj\Debug\PAufbereiten.csproj.CopyComplete

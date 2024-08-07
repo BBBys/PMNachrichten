@@ -1,0 +1,13 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.fSätze.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\bin\Debug\PSätze.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\bin\Debug\PSätze.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\bin\Debug\PSätze.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\bin\Debug\Textauswertung.dll
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\bin\Debug\Textauswertung.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.csproj.CopyComplete
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\obj\Debug\PSätze.pdb

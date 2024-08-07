@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "RSSDB4WEntropie"
+python /usr/local/news/RSSDB4WEntropie.py 
+echo "...RSSDB4WEntropie"

@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekte\\PMNachrichten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{286C7790-74AC-4B89-A64F-A17CB0189B59}|P46MldW\u00E4hlen\\P46MldW\u00E4hlen.csproj|d:\\projekte\\pmnachrichten\\p46mldw\u00E4hlen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286C7790-74AC-4B89-A64F-A17CB0189B59}|P46MldW\u00E4hlen\\P46MldW\u00E4hlen.csproj|solutionrelative:p46mldw\u00E4hlen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC35A879-8ED3-43E5-97C2-F183F711E7AB}|P45W\u00F6rterVergleichen\\P45W\u00F6rterVergleichen.csproj|d:\\projekte\\pmnachrichten\\p45w\u00F6rtervergleichen\\wvergleich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC35A879-8ED3-43E5-97C2-F183F711E7AB}|P45W\u00F6rterVergleichen\\P45W\u00F6rterVergleichen.csproj|solutionrelative:p45w\u00F6rtervergleichen\\wvergleich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92CB252-9DB4-4C16-BA71-FB2DCB4830FE}|P41neuW\u00F6rter\\P41neuW\u00F6rter.csproj|d:\\projekte\\pmnachrichten\\p41neuw\u00F6rter\\mainneuwoerter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92CB252-9DB4-4C16-BA71-FB2DCB4830FE}|P41neuW\u00F6rter\\P41neuW\u00F6rter.csproj|solutionrelative:p41neuw\u00F6rter\\mainneuwoerter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964FC66-F366-4A09-8E3B-AADAFDA179DD}|P3Woerter\\P3Woerter.csproj|d:\\projekte\\pmnachrichten\\p3woerter\\mainw\u00F6rterh\u00E4ufigkeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9964FC66-F366-4A09-8E3B-AADAFDA179DD}|P3Woerter\\P3Woerter.csproj|solutionrelative:p3woerter\\mainw\u00F6rterh\u00E4ufigkeiten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|P31W\u00F6rterZ\u00E4hlen||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C53A66-0EA4-4D20-B2AA-619C70FF2E79}|P31W\u00F6rterZ\u00E4hlen\\P31W\u00F6rterZ\u00E4hlen.csproj|d:\\projekte\\pmnachrichten\\p31w\u00F6rterz\u00E4hlen\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P46MldW\u00E4hlen\\Main.cs",
+              "RelativeDocumentMoniker": "P46MldW\u00E4hlen\\Main.cs",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P46MldW\u00E4hlen\\Main.cs",
+              "RelativeToolTip": "P46MldW\u00E4hlen\\Main.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:01:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WVergleich.cs",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\WVergleich.cs",
+              "RelativeDocumentMoniker": "P45W\u00F6rterVergleichen\\WVergleich.cs",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\WVergleich.cs",
+              "RelativeToolTip": "P45W\u00F6rterVergleichen\\WVergleich.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:59:45.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainNeuWoerter.cs",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P41neuW\u00F6rter\\MainNeuWoerter.cs",
+              "RelativeDocumentMoniker": "P41neuW\u00F6rter\\MainNeuWoerter.cs",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P41neuW\u00F6rter\\MainNeuWoerter.cs",
+              "RelativeToolTip": "P41neuW\u00F6rter\\MainNeuWoerter.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:57:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainW\u00F6rterH\u00E4ufigkeiten.cs",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P3Woerter\\MainW\u00F6rterH\u00E4ufigkeiten.cs",
+              "RelativeDocumentMoniker": "P3Woerter\\MainW\u00F6rterH\u00E4ufigkeiten.cs",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P3Woerter\\MainW\u00F6rterH\u00E4ufigkeiten.cs",
+              "RelativeToolTip": "P3Woerter\\MainW\u00F6rterH\u00E4ufigkeiten.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:56:48.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P31W\u00F6rterZ\u00E4hlen",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P31W\u00F6rterZ\u00E4hlen\\P31W\u00F6rterZ\u00E4hlen.csproj",
+              "RelativeDocumentMoniker": "P31W\u00F6rterZ\u00E4hlen\\P31W\u00F6rterZ\u00E4hlen.csproj",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P31W\u00F6rterZ\u00E4hlen\\P31W\u00F6rterZ\u00E4hlen.csproj",
+              "RelativeToolTip": "P31W\u00F6rterZ\u00E4hlen\\P31W\u00F6rterZ\u00E4hlen.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T16:00:02.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

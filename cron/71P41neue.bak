@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "P41NeuWoerter/P41neuWoerter"
+mono /usr/local/news/P41NeuWoerter/P41neuWoerter.exe localhost neu
+mono /usr/local/news/P41NeuWoerter/P41neuWoerter.exe localhost
+echo "...P41NeuWoerter/P41neuWoerter"

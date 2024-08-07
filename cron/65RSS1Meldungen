@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "RSS1Meldungen"
+cd /var/local/news
+mono /usr/local/news/RSS1Meldungen.exe rss.rss mld.mld
+tail mld.mld
+rm rss.rss
+echo "...RSS1Meldungen"

@@ -1,0 +1,17 @@
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\P1Meldungen.csproj.AssemblyReference.cache
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\PAbrufen.Properties.Resources.resources
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\P1Meldungen.csproj.GenerateResource.cache
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\P1Meldungen.csproj.CoreCompileInputs.cache
+D:\Projekte\PMNachrichten\P1Meldungen\bin\Debug\Textauswertung.dll
+D:\Projekte\PMNachrichten\P1Meldungen\bin\Debug\Textauswertung.pdb
+D:\Projekte\PMNachrichten\P1Meldungen\bin\Debug\RSS1Meldungen.exe.config
+D:\Projekte\PMNachrichten\P1Meldungen\bin\Debug\RSS1Meldungen.exe.manifest
+D:\Projekte\PMNachrichten\P1Meldungen\bin\Debug\RSS1Meldungen.application
+D:\Projekte\PMNachrichten\P1Meldungen\bin\Debug\RSS1Meldungen.exe
+D:\Projekte\PMNachrichten\P1Meldungen\bin\Debug\RSS1Meldungen.pdb
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\RSS1Meldungen.TrustInfo.xml
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\RSS1Meldungen.exe.manifest
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\RSS1Meldungen.application
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\P1Meldun.5C2F9FD7.Up2Date
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\RSS1Meldungen.exe
+D:\Projekte\PMNachrichten\P1Meldungen\obj\Debug\RSS1Meldungen.pdb

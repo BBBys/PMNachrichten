@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "cron 67WörterZählen"
+mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe
+mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe
+mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe
+mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe
+echo "...cron 67WörterZählen"

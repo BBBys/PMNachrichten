@@ -1,0 +1,17 @@
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\MldHilfe.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\MldHilfe.pdb
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\MySqlConnector.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\System.Buffers.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\System.Memory.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\System.Numerics.Vectors.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projekte\PMNachrichten\MldHilfe\obj\Debug\MldHilfe.csproj.AssemblyReference.cache
+D:\Projekte\PMNachrichten\MldHilfe\obj\Debug\MldHilfe.csproj.CoreCompileInputs.cache
+D:\Projekte\PMNachrichten\MldHilfe\obj\Debug\MldHilfe.csproj.Up2Date
+D:\Projekte\PMNachrichten\MldHilfe\obj\Debug\MldHilfe.dll
+D:\Projekte\PMNachrichten\MldHilfe\obj\Debug\MldHilfe.pdb
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\MySQLHilfe.dll
+D:\Projekte\PMNachrichten\MldHilfe\bin\Debug\MySQLHilfe.pdb

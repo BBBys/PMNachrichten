@@ -1,0 +1,14 @@
+/* farben2.css CSS - Cascading Style Sheet */
+/* Palette color codes */
+/* Palette URL: http://paletton.com/#uid=53+1a0kllll01QlaGuev+cs+W3z 
+*/
+:root
+	{
+		--p3:	#0A0A45 ;
+		--p4:	#000014 ;
+		--s20: 	#2D8632;
+		--s22:	#7EBE82 ;
+		--s11b:	#eed8ee;
+		--s12:	#BF80A5 ;
+		--s13: 	#4F002E ;		
+	}	

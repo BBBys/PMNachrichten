@@ -1,0 +1,46 @@
+﻿<table >
+	<thead><tr>
+      <th>Name</th>
+      <th>Alias</th>
+      <th>Alias</th>
+      <th>Speed<br>[MBit/s]</th>
+      <th>MAC</th>
+    </tr></thead>
+<tbody>
+<tr>
+
+</tr>");}
+echo("
+</tbody><tfoot >
+    <tr>
+      <td >
+<strong>insgesamt</strong>
+	  </td>
+      <td>
+<strong>$i Geräte erfasst</strong>
+	  </td>
+      <td>
+
+	  </td>
+    </tr>
+  </tfoot>
+</table>
+	");
+?>
+<div>
+<footer><ul><li>
+<?php
+	$file=__FILE__;
+	$lauf=(time()-$pgmStartzeit);
+	$pgmStartzeitts=date(DATE_RFC850,$pgmStartzeit);
+	$datenazeit=date(DATE_RFC850,$datenzeit);
+	$datenezeit=date(DATE_RFC850,$zeit/1000);
+	$mod=date(DATE_RFC850,getlastmod());
+	echo "$file</li>
+	<li>Progamm von $mod</li>
+	<li>gestartet $pgmStartzeitts</li>
+	<li>Laufzeit $lauf Sekunden";
+?>
+</li></ul></footer></div>
+</body>
+</html>

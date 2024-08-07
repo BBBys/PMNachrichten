@@ -1,0 +1,20 @@
+CREATE TABLE `meldungen` (
+ `hash` bigint(20) NOT NULL,
+ `datum` timestamp NOT NULL DEFAULT current_timestamp(),
+ `category` tinytext DEFAULT NULL,
+ `quelle` tinytext DEFAULT NULL,
+ `titel` text DEFAULT NULL,
+ `meldung` text DEFAULT NULL,
+ `link` tinytext DEFAULT NULL,
+ `w1` tinyint(1) NOT NULL DEFAULT 0 COMMENT 'Einzelwörter erfasst',
+ `w2` tinyint(1) NOT NULL DEFAULT 0 COMMENT '2-Wörter erfasst',
+ `w3` tinyint(1) NOT NULL DEFAULT 0 COMMENT '3-Wörter erfasst',
+ `w4` tinyint(1) NOT NULL DEFAULT 0 COMMENT '4-Wörter erfasst',
+ `w5` tinyint(1) NOT NULL DEFAULT 0 COMMENT '5-Wörter erfasst',
+ `w10` tinyint(1) NOT NULL DEFAULT 0 COMMENT '10-Wörter erfasst',
+ `entr` float DEFAULT 0 COMMENT 'Meldungsentropie',
+ `woerter` int(11) DEFAULT NULL,
+ `buchstaben` int(11) DEFAULT NULL,
+ `kriterium` tinytext DEFAULT NULL COMMENT 'warum diese Meldung als wichtig einestft wurde',
+ PRIMARY KEY (`hash`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci

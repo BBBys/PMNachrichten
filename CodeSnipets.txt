@@ -1,0 +1,21 @@
+[assembly: AssemblyTitle("DBeintragen")]
+[assembly: AssemblyDescription("Meldungen aus XML-Datei in Datenbank eintragen")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Burkhard Borys Vellmar")]
+[assembly: AssemblyProduct("Nachrichtenauswertung")]
+[assembly: AssemblyCopyright("Copyright ©  Borys 2024")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+
+using System.Diagnostics;
+using System.Reflection;
+
+
+      Assembly assembly = Assembly.GetExecutingAssembly();
+              FileVersionInfo fvi = FileVersionInfo.GetVersionInfo(assembly.Location);
+              string companyName = fvi.CompanyName;
+              string productName = fvi.ProductName;              
+      string programmname=fvi.FileDescription;
+string productVersion = fvi.ProductVersion;
+      Console.WriteLine($"{productName} V{productVersion}");

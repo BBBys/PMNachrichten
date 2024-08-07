@@ -1,0 +1,91 @@
+html
+{
+    font-family: Verdana, Helvetica, Sans-Serif;
+    margin: 0.2em ;
+}
+body
+{
+	background: white;
+}
+	/* Ränder `oben rechts unten links */
+	/* Header gibts von 1 bis 6 */
+h1,h2,h3,h4,h5,h6 
+{
+	letter-spacing: +.05em;
+	background:		var(--s22);
+    color: 			var(--p4);	/*color-primary-4*/
+    padding: 		0.2em 1em 0.1em 1em;
+    font-weight: 	bold;
+	border-color: var(--s20);
+	border-width: 3mm;
+	border-style: 	none none none solid;
+}
+
+.btn {
+  border: none; 		/* Remove borders */
+  border-radius: 12px;   
+  font-weight: 	bold;
+  font-size: 20px;
+  color: white; 		/* Add a text color */
+  padding: 14px 28px; 	/* Add some padding */
+  cursor: pointer; 		/* Add a pointer cursor on mouse-over */
+}
+
+.success {background-color: #04AA6D;} /* Green */
+.success:hover {background-color: #46a049;}
+.info {background-color: #2196F3; /* Blue */}
+.info:hover {background: #0b7dda;}
+.warning {background-color: #ff9800;} /* Orange */
+.warning:hover {background: #e68a00;}
+.danger {background-color: #f44336;} /* Red */
+.danger:hover {background: #da190b;}
+.default {background-color: #e7e7e7; color: black;} /* Gray */
+.default:hover {background: #ddd;}
+
+strong,tfoot {
+		color:var(--p3)
+	}
+a:link
+{
+	/* Ränder `oben rechts unten links */
+	color: black;
+	background-color: var(--s11b);
+	padding:   0px 0px;
+	text-align: center;
+	text-decoration: underline;
+	display: inline-block;
+}
+
+table
+{
+	tr:nth-child(even) {background-color: var(--s11b);}
+	tr{	border-style: 	solid none  solid none;
+		border: 10px solid black;
+		/* Ränder `oben rechts unten links */
+	}
+}
+
+header,footer
+{
+	font-family: Times, Serif;
+ 	//letter-spacing: +.13em;
+	background:		var(--s12);	/*color-secondary-1-2*/
+    color: 			#000000;
+	/* Ränder `oben rechts unten links */
+    padding: 		1em 1em 1em 1em;
+    font-weight: 	bolder;
+	border-style: 	none none none solid;
+	border-color: 	var(--s13);
+	border-width: 	3mm;
+}
+header::before {
+  content: "Auf dieser Seite: ";
+} 
+.messwerte
+{
+	border-style: 	solid;
+	border-color: 	var(--s20);
+	border-width: 	0.5mm;
+	width: 			100%; 
+	height: 		400px;
+}

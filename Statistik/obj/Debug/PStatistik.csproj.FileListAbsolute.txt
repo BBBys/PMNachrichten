@@ -1,0 +1,13 @@
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Debug\Statistik.exe.config
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Debug\Statistik.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Debug\Statistik.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Debug\Textauswertung.dll
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\bin\Debug\Textauswertung.pdb
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\PStatistik.csprojAssemblyReference.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\Statistik.fStatistik.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\Statistik.Properties.Resources.resources
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\PStatistik.csproj.GenerateResource.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\PStatistik.csproj.CoreCompileInputs.cache
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\PStatistik.csproj.CopyComplete
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\Statistik.exe
+C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\Statistik\obj\Debug\Statistik.pdb

@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="d:\program files (x86)\microsoft visual studio\2017\enterprise\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze\bin\Debug\RSS3SätzeAuswerten.exe">
+   <Modules>
+    <Module Name="rss3sätzeauswerten.exe">
+     <Messages>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Error">Markieren Sie "'RSS3SätzeAuswerten.exe'" mit CLSCompliant(true), da so extern sichtbare Typen verfügbar gemacht werden.</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="PSätze">
+       <Types>
+        <Type Name="fSätze" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Literale nicht als lokalisierte Parameter übergeben" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="33">Die Methode "'fSätze.fSätze()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: " V, . ".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="35">Die Methode "'fSätze.fSätze()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "DEBUGVERSION".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#bStart_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Literale nicht als lokalisierte Parameter übergeben" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="78">Die Methode "'fSätze.bStart_Click(object, EventArgs)'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Anzahl: ".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="80">Die Methode "'fSätze.bStart_Click(object, EventArgs)'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "mehr?".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Gültig(System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="485">Der this-Parameter (oder "Me" in Visual Basic) von 'fSätze.Gültig(string)' wird nie verwendet. Markieren Sie den Member als statisch (oder "Shared" in Visual Basic), oder verwenden Sie "this"/"Me" im Methodentext oder ggf. mindestens einen Eigenschaftenaccessor.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Literale nicht als lokalisierte Parameter übergeben" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="218">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "2 Wörter".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="206">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "3 Wörter".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="194">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "4 Wörter".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="182">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "5 Wörter".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="170">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "6 Wörter".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="382">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "?".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="391">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "?".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="400">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "?".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="409">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "?".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="418">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "?".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="104">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Ausgabe:".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="87">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Dateien".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="121">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Eingabe:".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="261">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Inhalt".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="373">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Statistik:".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="429">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Sätze".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="275">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Titel".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="287">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Wörter".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="237">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "anhängen".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="249">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "ausgeben".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="160">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "bearbeiten".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="359">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "chart1".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="307">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "lesen".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="298">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "noch keine Daten".</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.FileDialog.set_Filter(System.String)" TypeName="Literale nicht als lokalisierte Parameter übergeben" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="128">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'FileDialog.Filter.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Meldungen|*.mld|Text|*.txt|alle|*.*".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="134">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'FileDialog.Filter.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Wörter|*.wrt|Text|*.txt|alle|*.*".</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.FileDialog.set_Title(System.String)" TypeName="Literale nicht als lokalisierte Parameter übergeben" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="135">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'FileDialog.Title.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Ausgabedatei ".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.Designer.cs" Line="129">Die Methode "'fSätze.InitializeComponent()'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'FileDialog.Title.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Eingabedatei aufbereitete Meldungen".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#WörterExtrahieren(System.Collections.Generic.List`1&lt;WortType&gt;,System.Int32)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidExcessiveComplexity" Category="Microsoft.Maintainability" CheckId="CA1502" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="265">'fSätze.WörterExtrahieren(List&lt;WortType&gt;, int)' weist eine zyklomatische Komplexität von 31 auf. Schreiben Sie die Methode neu, oder gestalten Sie sie um, um die Komplexität auf 25 zu reduzieren.</Issue>
+            </Message>
+            <Message TypeName="DoNotRaiseReservedExceptionTypes" Category="Microsoft.Usage" CheckId="CA2201" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="Breaking">
+             <Issue Name="TooGeneric" Certainty="95" Level="Error" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="452">'fSätze.WörterExtrahieren(List&lt;WortType&gt;, int)' erstellt eine Ausnahme vom Typ 'Exception', einem Ausnahmetyp, der nicht spezifisch genug ist und nie von Benutzercode ausgelöst werden darf. Wenn diese Ausnahmeinstanz ausgelöst werden kann, verwenden Sie einen anderen Ausnahmetyp.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#WörterZusammenfassen(System.Collections.Generic.List`1&lt;WortType&gt;,System.Int32)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalError" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="203">Ändern Sie "'fSätze.WörterZusammenfassen(List&lt;WortType&gt;, int)'", damit eine spezifischere Ausnahme als "'Exception'" abgefangen wird, oder lösen Sie die Ausnahme erneut aus.</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Literale nicht als lokalisierte Parameter übergeben" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2021-07-25 07:19:52Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="162">Die Methode "'fSätze.WörterZusammenfassen(List&lt;WortType&gt;, int)'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Token:         ".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="164">Die Methode "'fSätze.WörterZusammenfassen(List&lt;WortType&gt;, int)'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Tokenentropie: ".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="161">Die Methode "'fSätze.WörterZusammenfassen(List&lt;WortType&gt;, int)'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Types:         ".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="163">Die Methode "'fSätze.WörterZusammenfassen(List&lt;WortType&gt;, int)'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Verhältnis:    ".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Borys\OneDrive\Dokumente\TEST\PMNachrichten\PSätze" File="fSätze.cs" Line="165">Die Methode "'fSätze.WörterZusammenfassen(List&lt;WortType&gt;, int)'" übergibt eine Literalzeichenfolge als Parameter "value" eines Aufrufs von 'Control.Text.set(string)'. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: "Wortentropie:  ".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="PSätze.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2021-07-25 07:19:52Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidExcessiveComplexity" Category="Microsoft.Maintainability" CheckId="CA1502">
+   <Name>Übermäßige Komplexität vermeiden</Name>
+   <Description>Methodenimplementierungen, die übermäßig komplex sind, erhöhen die Herausforderung, Code zu verstehen und zu warten.</Description>
+   <Resolution Name="Default">{0} weist eine zyklomatische Komplexität von {1} auf. Schreiben Sie die Methode neu, oder gestalten Sie sie um, um die Komplexität auf {2} zu reduzieren.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182212.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Warning</MessageLevel>
+   <File Name="maintainabilityrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Nicht aufgerufenen privaten Code vermeiden</Name>
+   <Description>Es ist nicht aufgerufener Code vorhanden, der nicht extern sichtbar und kein bekannter Laufzeit-Einstiegspunkt ist. Wenn diese Verletzung einen Fehler auslöst, senden Sie einen Problembericht an das Visual Studio-Codeanalyse-Team.</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031">
+   <Name>Allgemeine Ausnahmetypen nicht auffangen</Name>
+   <Description>Exception oder SystemException sollte nicht aufgefangen werden. Durch das Auffangen generischer Ausnahmetypen werden dem Benutzer einer Bibliothek Probleme zur Laufzeit möglicherweise nicht angezeigt. Dadurch wird das Debugging behindert. Fangen Sie nur Ausnahmen auf, die Sie problemlos behandeln können.</Description>
+   <Resolution Name="Default">Ändern Sie "{0}", damit eine spezifischere Ausnahme als "{1}" abgefangen wird, oder lösen Sie die Ausnahme erneut aus.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182137.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotRaiseReservedExceptionTypes" Category="Microsoft.Usage" CheckId="CA2201">
+   <Name>Keine reservierten Ausnahmetypen auslösen</Name>
+   <Description>Benutzercode sollte keine Ausnahmen von bestimmten Typen erstellen und auslösen, die von der Laufzeit reserviert sind oder von einem zu allgemeinen Ausnahmetyp sind. Zu den Ausnahmetypen, die zu allgemein sind, gehören Exception, SystemException und ApplicationException. Zu den Ausnahmetypen, die von der Laufzeit reserviert sind, gehören ThreadAbortException, OutOfMemoryException, ExecutionEngineException und IndexOutOfRangeException.</Description>
+   <Resolution Name="TooGeneric">{0} erstellt eine Ausnahme vom Typ {1}, einem Ausnahmetyp, der nicht spezifisch genug ist und nie von Benutzercode ausgelöst werden darf. Wenn diese Ausnahmeinstanz ausgelöst werden kann, verwenden Sie einen anderen Ausnahmetyp.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182338.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="Literale nicht als lokalisierte Parameter übergeben" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>Literale nicht als lokalisierte Parameter übergeben</Name>
+   <Description>Literalzeichenfolgen, die in Quellcode eingebettet sind, sind schwer zu lokalisieren. Übergeben Sie keine Literalzeichenfolgen als Argumente in Fällen, in denen im Allgemeinen eine lokalisierte Zeichenfolge erwartet wird.</Description>
+   <Resolution Name="KnownValue">Die Methode "{0}" übergibt eine Literalzeichenfolge als Parameter "{1}" eines Aufrufs von {2}. Rufen Sie die folgende(n) Zeichenfolge(n) stattdessen von einer Ressourcentabelle ab: {3}.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182187.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>Assemblys mit CLSCompliantAttribute markieren</Name>
+   <Description>Bei Assemblys muss die CLS-Kompatibilität mithilfe des CLSCompliant-Atttributs explizit angegeben werden. Eine Assembly ohne dieses Attribut ist nicht CLS-kompatibel. Assemblys, Module und Typen können selbst dann CLS-kompatibel sein, wenn einige Komponenten der Assembly, des Moduls oder des Typs nicht CLS-kompatibel sind. Es gelten die folgenden Regeln: 1. Wenn das Element als CLSCompliant markiert ist, müssen alle nicht kompatiblen Member das CLSCompliant-Attribut aufweisen, und das Argument muss auf "False" festgelegt sein. 2. Ein vergleichbarer alternativer CLS-kompatibler Member muss für jeden nicht CLS-kompatiblen Member zur Verfügung gestellt werden.</Description>
+   <Resolution Name="Default">Markieren Sie "{0}" mit CLSCompliant(true), da so extern sichtbare Typen verfügbar gemacht werden.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182156.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822">
+   <Name>Member als statisch markieren</Name>
+   <Description>Methoden, die nicht auf Instanzdaten zugreifen oder keine Instanzmethoden aufrufen, können als statisch markiert werden (Shared in Visual Basic). Danach gibt der Compiler nicht virtuelle Aufrufsites an diese Member aus, wodurch eine Laufzeitüberprüfung aller Aufrufe verhindert wird, die sicherstellt, dass der aktuelle Objektzeiger ungleich NULL ist. Dies kann zu einer messbaren Leistungssteigerung für leistungsabhängigen Code führen. In manchen Fällen stellt es ein Problem mit der Richtigkeit dar, wenn nicht auf die aktuelle Objektinstanz zugegriffen werden kann.</Description>
+   <Resolution Name="Default">Der this-Parameter (oder "Me" in Visual Basic) von {0} wird nie verwendet. Markieren Sie den Member als statisch (oder "Shared" in Visual Basic), oder verwenden Sie "this"/"Me" im Methodentext oder ggf. mindestens einen Eigenschaftenaccessor.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms245046.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Kategorie</String>
+  <String Key="Certainty">Sicherheit</String>
+  <String Key="CollapseAll">Alle zuklappen</String>
+  <String Key="CheckId">Prüf-ID</String>
+  <String Key="Error">Fehler</String>
+  <String Key="Errors">Fehler</String>
+  <String Key="ExpandAll">Alle aufklappen</String>
+  <String Key="Help">Hilfe</String>
+  <String Key="Line">Zeile</String>
+  <String Key="Messages">Meldung(en)</String>
+  <String Key="LocationNotStoredInPdb">[Nicht in PDB gespeicherter Speicherort]</String>
+  <String Key="Project">Projekt</String>
+  <String Key="Resolution">Auflösung</String>
+  <String Key="Rule">Regel</String>
+  <String Key="RuleFile">Regeldatei</String>
+  <String Key="RuleDescription">Regelbeschreibung</String>
+  <String Key="Source">Quelle</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Ziel</String>
+  <String Key="Warning">Warnung</String>
+  <String Key="Warnings">Warnung(en)</String>
+  <String Key="ReportTitle">Codeanalysebericht</String>
+ </Localized>
+</FxCopReport>

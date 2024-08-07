@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "73vergleichen"
+mono /usr/local/news/P45Vergleichen/P45WörterVergleichen.exe localhost neu
+mono /usr/local/news/P45Vergleichen/P45WörterVergleichen.exe 
+mono /usr/local/news/P45Vergleichen/P45WörterVergleichen.exe 
+echo "...73vergleichen"

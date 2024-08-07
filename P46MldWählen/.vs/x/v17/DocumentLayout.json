@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C53A66-0EA4-4D20-B2AA-619C70FF2E79}|P45W\u00F6rterVergleichen.csproj|d:\\projekte\\pmnachrichten\\p45w\u00F6rtervergleichen\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C53A66-0EA4-4D20-B2AA-619C70FF2E79}|P45W\u00F6rterVergleichen.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C53A66-0EA4-4D20-B2AA-619C70FF2E79}|P45W\u00F6rterVergleichen.csproj|d:\\projekte\\pmnachrichten\\p45w\u00F6rtervergleichen\\woertervergleichn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C53A66-0EA4-4D20-B2AA-619C70FF2E79}|P45W\u00F6rterVergleichen.csproj|solutionrelative:woertervergleichn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|P45W\u00F6rterVergleichen||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C53A66-0EA4-4D20-B2AA-619C70FF2E79}|P45W\u00F6rterVergleichen.csproj|d:\\projekte\\pmnachrichten\\p45w\u00F6rtervergleichen\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:06:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WoerterVergleichn.cs",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\WoerterVergleichn.cs",
+              "RelativeDocumentMoniker": "WoerterVergleichn.cs",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\WoerterVergleichn.cs",
+              "RelativeToolTip": "WoerterVergleichn.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:06:18.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P45W\u00F6rterVergleichen",
+              "DocumentMoniker": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\P45W\u00F6rterVergleichen.csproj",
+              "RelativeDocumentMoniker": "P45W\u00F6rterVergleichen.csproj",
+              "ToolTip": "D:\\Projekte\\PMNachrichten\\P45W\u00F6rterVergleichen\\P45W\u00F6rterVergleichen.csproj",
+              "RelativeToolTip": "P45W\u00F6rterVergleichen.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-12T17:04:00.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

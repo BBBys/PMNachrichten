@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "72neue zählen"
+mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe localhost neu neu
+mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe localhost neu
+mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe localhost neu
+echo "...72neue zählen"

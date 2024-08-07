@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "cron 91MldStatistik"
+mono /usr/local/news/P91MldStatistik/P91MldStatistik.exe
+echo "...cron 91MldStatistik"

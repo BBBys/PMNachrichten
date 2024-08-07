@@ -1,0 +1,17 @@
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\MySQLHilfe.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\MySQLHilfe.pdb
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\MySqlConnector.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\System.Buffers.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\System.Memory.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\System.Numerics.Vectors.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\obj\Debug\MySQLHilfe.csproj.AssemblyReference.cache
+D:\Projekte\PMNachrichten\MySQLHilfe\obj\Debug\MySQLHilfe.csproj.CoreCompileInputs.cache
+D:\Projekte\PMNachrichten\MySQLHilfe\obj\Debug\MySQLHilfe.csproj.Up2Date
+D:\Projekte\PMNachrichten\MySQLHilfe\obj\Debug\MySQLHilfe.dll
+D:\Projekte\PMNachrichten\MySQLHilfe\obj\Debug\MySQLHilfe.pdb
+D:\Projekte\PMNachrichten\MySQLHilfe\obj\Debug\MySQLHilfe.Properties.Resources.resources
+D:\Projekte\PMNachrichten\MySQLHilfe\obj\Debug\MySQLHilfe.csproj.GenerateResource.cache

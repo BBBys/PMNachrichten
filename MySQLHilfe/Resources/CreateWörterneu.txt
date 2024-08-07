@@ -1,0 +1,13 @@
+CREATE TABLE `woerterneu1` (
+ `wort` tinytext DEFAULT NULL COMMENT 'Wort/Wortfolge',
+ `hash` int(11) NOT NULL COMMENT 'Hash über Wortfolge',
+ `anzahl` int(11) unsigned DEFAULT 0 COMMENT 'absolute Anzahl',
+ `gesamt` int(10) unsigned DEFAULT NULL COMMENT 'Gesamtzahl, auf die sich rel. H. bezieht',
+ `rang` int(11) unsigned DEFAULT NULL COMMENT 'Rang nach Anzahl',
+ `relh` double unsigned DEFAULT NULL COMMENT 'relative Häufigkeit',
+ `entr` float unsigned DEFAULT NULL COMMENT 'Wort-Entropie',
+ `beitrag` double unsigned DEFAULT NULL COMMENT 'Beitrag zum mittl. Wortentropie (pro Wortkette)',
+ `zeichen` tinyint(3) unsigned DEFAULT NULL COMMENT 'Anz. Zeichen in Kette',
+ PRIMARY KEY (`hash`),
+ UNIQUE KEY `wort` (`wort`) USING HASH
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='abs. Häufigkeit Wörter'

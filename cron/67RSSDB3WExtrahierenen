@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "RSSDB3Woerterextrahieren"
+cd /var/local/news
+python /usr/local/news/RSSDB3Woerterextrahieren.py 
+echo "...RSSDB3Woerterextrahieren"
