@@ -1,5 +1,0 @@
-#!/bin/sh
-echo "RSS0Abrufen ts"
-test -e /usr/local/news/RSS0Abrufen.exe || exit 0
-mono /usr/local/news/RSS0Abrufen.exe ts /var/local/news/tagesschau.rss
-echo "...RSS0Abrufen ts"

@@ -1,6 +1,0 @@
-#!/bin/sh
-echo "P2Eintragen"
-cd /var/local/news
-mono /usr/local/news/P2Eintragen.exe
-mono /usr/local/news/P2Eintragen.exe
-echo "...P2Eintragen"

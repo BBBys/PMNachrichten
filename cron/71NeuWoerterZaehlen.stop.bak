@@ -1,7 +1,0 @@
-#!/bin/sh
-echo "cron 71NeuWörterZählen"
-mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe localhost neu
-mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe localhost neu
-mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe localhost neu
-mono /usr/local/news/P31WoerterZaehlen/P31WörterZählen.exe localhost neu
-echo "...cron 71NeuWörterZählen"

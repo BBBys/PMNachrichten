@@ -1,3 +1,11 @@
+*.bak
+*.vsidx
+.vs/
+*.suo
+*.lock
+DateiXml/
+obj/
+
 # Prerequisites
 *.d
 
