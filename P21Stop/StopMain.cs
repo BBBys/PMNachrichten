@@ -6,8 +6,9 @@ using System.Reflection;
 using System.Text.RegularExpressions;
 namespace Borys.Nachrichten
 {
-  internal class Stop
+  internal partial class Stop
   {
+   
     private static void Main(string[] args)
     {
       //Stoppliste sl = new Stoppliste();
@@ -31,6 +32,7 @@ namespace Borys.Nachrichten
         _ = Console.ReadKey();
         throw new Exception(FEHLER);
       }
+      #region Aufgabe
       ABFRAGE = $"SELECT id,parameter FROM {Hilfe.MySQLHilfe.DBTBB} WHERE programm='{titel}'";
       using (MySqlConnection conEin = Hilfe.MySQLHilfe.ConnectToDB(DBHOST),
         conAus = Hilfe.MySQLHilfe.ConnectToDB(DBHOST))
@@ -50,7 +52,9 @@ namespace Borys.Nachrichten
           }
           AufgabenId = reader.GetUInt32("id");
           reader.Close();
+          #endregion
           conAus.Open();
+          Aufräumen(Hilfe.MySQLHilfe.DBTMELDUNGEN, SQLEin, SQLAus);
           EntferneStop(
             Hilfe.MySQLHilfe.DBTMELDUNGEN,
             Hilfe.MySQLHilfe.DBTDATEN,
@@ -88,6 +92,47 @@ namespace Borys.Nachrichten
       }
     }
 
+
+    private static void Aufräumen(string dBTMELDUNGEN, MySqlCommand sQLEin, MySqlCommand sQLAus)
+    { 
+      const int isTitel = 1, istId = 0;
+    uint anzahl;
+      sQLEin.CommandText = $"SELECT COUNT(titel) FROM {dBTMELDUNGEN}";
+      using (MySqlDataReader readerEin = sQLEin.ExecuteReader())
+      {
+        readerEin.Read();
+        if (readerEin.HasRows)
+        {
+         
+          anzahl = readerEin.GetUInt32(istId);
+          Console.WriteLine($"{anzahl}\tTitel in {dBTMELDUNGEN}");
+        }
+        else
+          throw new Exception($"{dBTMELDUNGEN} ist leer!");
+      }
+      if (anzahl > 1)
+        sQLEin.CommandText = $"SELECT id,titel FROM {dBTMELDUNGEN} ORDER BY titel";
+      using (MySqlDataReader readerEin = sQLEin.ExecuteReader())
+      {
+        uint weg = 0;
+        string t1, t2;
+        readerEin.Read();
+        t1 = readerEin.GetString(isTitel).ToLowerInvariant();
+        while (readerEin.Read())
+        {
+          t2 = readerEin.GetString(isTitel).ToLowerInvariant();
+          if (t1.Equals(t2))
+          {
+            int id = readerEin.GetInt32(istId);
+            sQLAus.CommandText = $"DELETE FROM {dBTMELDUNGEN} WHERE id={id}";
+            sQLAus.ExecuteNonQuery();
+            weg++;
+          }
+          t1 = t2;
+        }
+        Console.WriteLine($"{weg}\tdoppelte Titel gelöscht");
+      }
+    }
 
     private static void EntferneStop(
       string dbtMld,

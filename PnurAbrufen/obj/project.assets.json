@@ -152,28 +152,6 @@
             "related": ".xml"
           }
         }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
-      },
-      "Textauswertung/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Textauswertung.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Textauswertung.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8.1/win": {
@@ -326,28 +304,6 @@
           "lib/net461/System.Threading.Tasks.Extensions.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
-      },
-      "Textauswertung/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Textauswertung.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Textauswertung.dll": {}
         }
       }
     },
@@ -502,28 +458,6 @@
             "related": ".xml"
           }
         }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
-      },
-      "Textauswertung/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Textauswertung.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Textauswertung.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8.1/win-x64": {
@@ -677,28 +611,6 @@
             "related": ".xml"
           }
         }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
-      },
-      "Textauswertung/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Textauswertung.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Textauswertung.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8.1/win-x86": {
@@ -851,28 +763,6 @@
           "lib/net461/System.Threading.Tasks.Extensions.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
-      },
-      "Textauswertung/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Textauswertung.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Textauswertung.dll": {}
         }
       }
     }
@@ -1166,23 +1056,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "MySQLHilfe/1.0.0": {
-      "type": "project",
-      "path": "../MySQLHilfe/MySQLHilfe.csproj",
-      "msbuildProject": "../MySQLHilfe/MySQLHilfe.csproj"
-    },
-    "Textauswertung/1.0.0": {
-      "type": "project",
-      "path": "../Textauswertung/Textauswertung.csproj",
-      "msbuildProject": "../Textauswertung/Textauswertung.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8.1": [
-      "MySQLHilfe >= 1.0.0",
-      "MySqlConnector >= 2.3.7",
-      "Textauswertung >= 1.0.0"
+      "MySqlConnector >= 2.3.7"
     ]
   },
   "packageFolders": {
@@ -1216,14 +1094,7 @@
       },
       "frameworks": {
         "net481": {
-          "projectReferences": {
-            "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj": {
-              "projectPath": "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj"
-            },
-            "D:\\Projekte\\PMNachrichten\\Textauswertung\\Textauswertung.csproj": {
-              "projectPath": "D:\\Projekte\\PMNachrichten\\Textauswertung\\Textauswertung.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "restoreAuditProperties": {

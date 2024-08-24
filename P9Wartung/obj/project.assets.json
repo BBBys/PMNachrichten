@@ -368,19 +368,6 @@
         "runtime": {
           "lib/net461/ZstdSharp.dll": {}
         }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8.1/win": {
@@ -728,19 +715,6 @@
         "runtime": {
           "lib/net461/ZstdSharp.dll": {}
         }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8.1/win-arm64": {
@@ -1087,19 +1061,6 @@
         },
         "runtime": {
           "lib/net461/ZstdSharp.dll": {}
-        }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
         }
       }
     },
@@ -1455,19 +1416,6 @@
         "runtime": {
           "lib/net461/ZstdSharp.dll": {}
         }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8.1/win-x86": {
@@ -1814,19 +1762,6 @@
         },
         "runtime": {
           "lib/net461/ZstdSharp.dll": {}
-        }
-      },
-      "MySQLHilfe/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.8.1",
-        "dependencies": {
-          "MySqlConnector": "2.3.7"
-        },
-        "compile": {
-          "bin/placeholder/MySQLHilfe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySQLHilfe.dll": {}
         }
       }
     }
@@ -2357,18 +2292,12 @@
         "zstdsharp.port.0.7.1.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
-    },
-    "MySQLHilfe/1.0.0": {
-      "type": "project",
-      "path": "../MySQLHilfe/MySQLHilfe.csproj",
-      "msbuildProject": "../MySQLHilfe/MySQLHilfe.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8.1": [
       "BouncyCastle.Cryptography >= 2.4.0",
       "MySQLConnection >= 1.0.1",
-      "MySQLHilfe >= 1.0.0",
       "MySql.Data >= 8.4.0",
       "MySqlConnector >= 2.3.7"
     ]
@@ -2404,11 +2333,7 @@
       },
       "frameworks": {
         "net481": {
-          "projectReferences": {
-            "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj": {
-              "projectPath": "D:\\Projekte\\PMNachrichten\\MySQLHilfe\\MySQLHilfe.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "restoreAuditProperties": {

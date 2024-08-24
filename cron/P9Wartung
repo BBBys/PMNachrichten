@@ -1,0 +1,3 @@
+echo "P9Wartung..."
+mono /usr/local/news/P9Wartung.exe -p
+echo "...fertig"

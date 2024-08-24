@@ -1,10 +1,12 @@
 *.bak
 *.vsidx
 .vs/
+.vs\
 *.suo
 *.lock
 DateiXml/
 obj/
+*/obj/
 
 # Prerequisites
 *.d
@@ -38,3 +40,8 @@ obj/
 *.exe
 *.out
 *.app
+/*/bin
+*.pdb
+*.cache
+*.user
+*.nuget.dgspec.json

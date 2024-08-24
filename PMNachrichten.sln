@@ -56,7 +56,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P48WichtigeMld", "P48WichtigeMld\P48WichtigeMld.csproj", "{7B0CA0DD-AC26-485F-B8BE-1E2334D6FD84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P99Wartung", "P99Wartung\P99Wartung.csproj", "{E73C053F-296A-4122-9CD3-C9713C3F3E14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xxAltP99Wartung", "P99Wartung\xxAltP99Wartung.csproj", "{E73C053F-296A-4122-9CD3-C9713C3F3E14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21Stop", "P21Stop\P21Stop.csproj", "{2B4DF351-6B02-45F3-AF8A-E089CACD2C58}"
 EndProject

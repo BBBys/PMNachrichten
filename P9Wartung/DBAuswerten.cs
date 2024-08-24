@@ -35,7 +35,7 @@ namespace Borys.Nachrichten
       {
         throw new ArgumentException($"\"{nameof(dBTMeldungen)}\" kann nicht NULL oder leer sein.", nameof(dBTMeldungen));
       }
-      int nMld = 0, nNeu = 0;
+      int nMld = 0;
       using (MySqlConnection conAus = new MySqlConnection(conEin.ConnectionString))
       using (
         MySqlCommand cmdEin = new MySqlCommand("", conEin),
@@ -46,14 +46,12 @@ namespace Borys.Nachrichten
         conAus.Open();
         using (MySqlDataReader rMeld = cmdEin.ExecuteReader())
         {
-          string text;
           int ret;
           long hashAlt, hashNeu = 0;
           if (rMeld.HasRows)
           {
             while (rMeld.Read())
             {
-              MySqlDataReader rPrüf;
               nMld++;
               hashAlt = Convert.ToInt64(rMeld["hash"]);
               hashNeu++;

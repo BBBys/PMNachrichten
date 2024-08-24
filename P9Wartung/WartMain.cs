@@ -47,17 +47,19 @@ namespace Borys.Nachrichten
       }
       try
       {
-        using (MySqlConnection con = Hilfe.MySQLHilfe.ConnectToDB(DBHOST))
+        using (MySqlConnection con = Hilfe.MySQLHilfe.ConnectToDB(DBHOST),
+           con2 = Hilfe.MySQLHilfe.ConnectToDB(DBHOST))
         {
-          //con.Open();
+          con.Open();
+          con2.Open();
           switch (was)
           {
             case "-b":
-              DBBlackboard(con, Hilfe.MySQLHilfe.DBTBB, Hilfe.MySQLHilfe.DBTCREATEBB);
+              DBBlackboard(con, Hilfe.MySQLHilfe.DBTCREATEBB);
               break;
 
             case "-p":
-              Prüfen(con, Hilfe.MySQLHilfe.DBTBB);
+              Prüfen(con, con2, Hilfe.MySQLHilfe.DBTBB);
               break;
             case "-r":
               DBReHash(con, DBTMELDUNGEN);
@@ -66,10 +68,11 @@ namespace Borys.Nachrichten
             //  DBKopieren(con, DBTMELDUNGEN, null);
             //  break;
             default:
-              throw new NotImplementedException("nicht implementiert: " + was);
+              throw new NotImplementedException("nicht implementiert: Parameter " + was);
               break;
           }//switch
           con.Close();
+          con2.Close();
         }
       }
       catch (MySqlException ex)
@@ -89,77 +92,88 @@ namespace Borys.Nachrichten
       return;
     }
 
-    private static void Prüfen(MySqlConnection con, string dbTBb)
+    private static void Prüfen(MySqlConnection conEin, MySqlConnection conAus, string dbTBb)
     {
-      bool bbtest, hatSp, hatTs;
+
       MySqlDataReader reader = null;
       Console.WriteLine("DB? OK");
       Console.Write("Blackboard?");
-      using (MySqlCommand cmd = new MySqlCommand($"select parameter from {dbTBb} where programm='P0Abrufen'", con))
+      using (MySqlCommand SQL = new MySqlCommand(string.Empty, conEin),
+        SQL2 = new MySqlCommand(string.Empty, conAus))
       {
-        bbtest = true;
-        while (bbtest)
+        bool hatSp, hatTs;
+        uint max, min, neu, alt;
+        hatSp = false;
+        hatTs = false;
+        try
         {
-          bbtest = false;
-          hatSp = false;
-          hatTs = false;
-          try
+          string parameter;
+          //erste Prüfung: gibt es Start-Einträge, mindestens je einen für Spiegel und Tagesschau?
+          SQL.CommandText = $"SELECT parameter FROM {dbTBb} WHERE programm='P0Abrufen'";
+          reader = SQL.ExecuteReader();
+          if (reader.HasRows)
+            while (reader.Read() && !(hatSp && hatTs))
+            {
+              parameter = reader.GetString(0);
+              hatSp = parameter.ToUpper().StartsWith("SPIEG") || hatSp;
+              hatTs = parameter.ToUpper().StartsWith("TAGES") || hatTs;
+            }
+          reader.Close();
+          if (!hatTs)
+            AddBBEntry(SQL, "Tagesschau");
+          if (!hatSp)
+            AddBBEntry(SQL, "Spiegel");
+          //zweite Prüfung: wie groß ist ID?
+          SQL.CommandText = $"SELECT MAX(id) AS MAX, MIN(id) AS MIN FROM {dbTBb}";
+          reader = SQL.ExecuteReader();
+          reader.Read();
+          max = reader.GetUInt32("MAX");
+          min = reader.GetUInt32("MIN");
+          reader.Close();
+          Console.WriteLine($"ID läuft von {min} bis {max}");
+          if (max > 300 && min > 30)
           {
-            string parameter;
-            reader = cmd.ExecuteReader();
-            if (reader.HasRows)
+            Console.WriteLine("... wird zusammengeschoben");
+            SQL.CommandText = $"SELECT id AS ALT FROM {dbTBb} ORDER BY id ASC";
+            reader = SQL.ExecuteReader();
+            neu = 0;
+            while (reader.Read())
             {
-              for (int i = 0; i < 2; i++)
-              {
-                reader.Read();
-                parameter = reader.GetString(0);
-                if (parameter.ToUpper().StartsWith("SPIEG"))
-                  hatSp = true;
-                if (parameter.ToUpper().StartsWith("TAGES"))
-                  hatTs = true;
-              }
-            }
-            reader.Close();
-            if (!hatTs)
-            {
-              AddBBEntry(cmd, "Tagesschau");
-              bbtest = true;
-            }
-            if (!(hatTs && hatSp))
-            {
-              AddBBEntry(cmd, "Spiegel");
-              bbtest = true;
+              alt = reader.GetUInt32("ALT");
+              SQL2.CommandText = $"UPDATE {dbTBb} SET id={neu} WHERE id={alt}";
+              SQL2.ExecuteNonQuery();
+              neu++;
             }
           }
-          catch (MySqlException ex)
-          {
-            if (Hilfe.MySQLHilfe.IfMySQLTabelleFehltEx(ex))
-            {
-              Console.Write(" fehlt!");
-              reader?.Close();
 
-              DBBlackboard(con);
-              Console.WriteLine(" erzeugt");
-              bbtest = true;
+        }//try
+        catch (MySqlException ex)
+        {
+          if (Hilfe.MySQLHilfe.IfMySQLTabelleFehltEx(ex))
+          {
+            Console.Write(" fehlt!");
+            reader?.Close();
+
+            DBBlackboard(conEin);
+            Console.WriteLine(" erzeugt");
             }
-            else
-              throw ex;
-          }
+          else
+            throw ex;
         }
       }
     }
 
-    private static void DBBlackboard(MySqlConnection con) => DBBlackboard(con, Hilfe.MySQLHilfe.DBTBB, Hilfe.MySQLHilfe.DBTCREATEBB);
+    private static void DBBlackboard(MySqlConnection con) => DBBlackboard(con, Hilfe.MySQLHilfe.DBTCREATEBB);
 
     /// <summary>
     /// Tab Blackboard erzeugen
     /// blackboard: (`id`,`programm`,`parameter`,`zeit`)
     /// </summary>
     /// <param name="con"></param>
-    /// <param name="dBTab"></param>
     /// <param name="create"></param>
+    /// 
     private static void DBBlackboard(
-      MySqlConnection con, string dBTab, string create)
+      MySqlConnection con, string create)
     {
       using (MySqlCommand cmd = new MySqlCommand(create, con))
       {
@@ -176,15 +190,26 @@ namespace Borys.Nachrichten
       }
     }
 
-    private static void AddBBEntry(MySqlCommand cmd, string param, uint id = 0, string dBTab = Hilfe.MySQLHilfe.DBTBB)
+    /// <summary>
+    /// Parameter für Spiegel- oder Tagesschau-Abruf in Blackboad eintragen
+    /// </summary>
+    /// <param name="cmd"></param>
+    /// <param name="param">Spiegel oder Tagesschau</param>
+    /// <param name="id">wenn nicht angegeben: Autoinkrement</param>
+    /// <param name="dBTab">Blackboard</param>
+    private static void AddBBEntry(
+      MySqlCommand cmd,
+      string param,
+      uint id = 0,
+      string dBTab = Hilfe.MySQLHilfe.DBTBB)
     {
-      if (id > 0)
-        cmd.CommandText =
-                $"insert into {dBTab} (id,`programm`,`parameter`,zeit) values ({id},'P0Abrufen','{param}',0)";
-      else
-        cmd.CommandText =
-               $"insert into {dBTab} (`programm`,`parameter`,zeit) values ('P0Abrufen','{param}',0)";
+      cmd.CommandText = (id > 0)
+              ?
+              $"insert into {dBTab} (id,`programm`,`parameter`,zeit) values ({id},'P0Abrufen','{param}',0)"
+              :
+              $"insert into {dBTab} (`programm`,`parameter`,zeit) values ('P0Abrufen','{param}',0)";
       _ = cmd.ExecuteNonQuery();
+      Console.WriteLine($"Eintrag P0Abrufen {param} in {dBTab} erzeugt");
     }
   }
 }
