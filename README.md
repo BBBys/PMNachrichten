@@ -1,4 +1,5 @@
 # Newsfeeds lesen und statistisch auswerten
+![image](151214.jpeg)
 ## Quellen
 * SPIEGEL
 * Tagesschau
